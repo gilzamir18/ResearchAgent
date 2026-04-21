@@ -2,6 +2,7 @@ import anyio
 from agenticblocks.core.graph import WorkflowGraph
 from agenticblocks.runtime.executor import WorkflowExecutor
 from agenticblocks.blocks.llm.agent import LLMAgentBlock, AgentInput
+from agenticblocks.blocks.llm.heuristic_agent import HeuristicLLMAgentBlock
 from agenticblocks import as_tool
 from agenticblocks.tools.mcp_client import MCPClientBridge
 
@@ -22,20 +23,37 @@ async def main():
     
     graph = WorkflowGraph()
 
+    # Adiciona o bloco de agente ao grafo
     agent_block = LLMAgentBlock(
         name="research_agent",
         model="ollama/mistral-nemo:latest",
         description="Agente de pesquisa",
-        system_prompt="""Você é um assistente de pesquisa. Ao receber um tópico, use as ferramentas de busca e fetch para extrair informações de URLs. Escreva um relatório final em estilo jornalístico. Regra estrita: entregue apenas texto em prosa, sem absolutamente nenhuma formatação, listas ou marcações markdown.""",
-        tools=mcp_tools_fetch+mcp_tools_search,   # <-- ferramentas vindas do servidor MCP
-        max_iterations=10,
-        on_max_iterations="return_last",
-        litellm_kwargs={"temperature": 0.7, "tool_choice": "auto", "num_ctx": 32000}
+        system_prompt="""Você é um assistente de pesquisa especializado em ajudar pesquisadores
+        sobre os mais diversos tópicos. Você vai receber uma consulta sobre um tópico dado
+        pelo usuário e vai produzir um relatório sobre este tópico. Para isso, faça uma busca 
+        em fontes de dados usando as ferramentas disponíveis. Chame uma vez cada ferramenta usando 
+        palavras-chaves correspondentes ao tópico informado pelo usuário. 
+        Use apenas dados retornados pelas ferramentas.
+        Exemplo de tópico do usuário e palavras-chaves correspondentes que você deve usar nas
+        ferramentas:
+        
+        Tópico: Brasil, Palabras-Chave: Brasil, brasil, países emergentes, país emergente
+        Tópico: economia, Palavras-Chave: PIB, peço, petróleo, mercado, ...
+
+        Estruture a resposta final destacando as informações relevantes de acordo com o tópico 
+        pesquisado.
+        """,
+        tools=mcp_tools_search+mcp_tools_fetch,
+        debug=True,
+        max_iterations=3,
+        on_max_iterations="return_last", #it returns the last message.
+        litellm_kwargs={"temperature": 1.0, "tool_choice": "auto", "num_ctx": 4092, "max_tokens": 1000}
     )
 
     graph.add_sequence(get_user_input, agent_block)
 
     executor = WorkflowExecutor(graph)
+
     ctx = await executor.run(initial_input={"prompt": ""})
     cr = ctx.get_output("research_agent")
     print(cr.response)

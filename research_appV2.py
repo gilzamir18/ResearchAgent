@@ -1,7 +1,9 @@
 import asyncio
 from agenticblocks.blocks.llm.agent import LLMAgentBlock, AgentInput
 from mockutils import websearch_mock, databasesearch_mock 
-
+from agenticblocks import as_tool
+from agenticblocks.core.graph import WorkflowGraph
+from agenticblocks.runtime.executor import WorkflowExecutor
 
 
 @as_tool(name="get_user_input")
@@ -31,15 +33,15 @@ async def main():
         Tópico: Brasil, Palabras-Chave: Brasil, brasil, países emergentes, país emergente
         Tópico: economia, Palavras-Chave: PIB, peço, petróleo, mercado, ...
 
-        Formate o final para se parecer com um texto jornalístico puro, sem marcações
-        e sem tags.
+        Estruture a resposta final destacando as informações relevantes de acordo com o tópico 
+        pesquisado.
         """,
         tools=[websearch_mock, databasesearch_mock],
-        max_iterations=10,
+        debug=True,
+        max_iterations=5,
         on_max_iterations="return_last", #it returns the last message.
-        litellm_kwargs={"temperature": 0.7, "tool_choice": "auto"}
+        litellm_kwargs={"temperature": 1.0, "tool_choice": "auto"}
     )
-
 
     graph.add_sequence(get_user_input, agent_block)
 

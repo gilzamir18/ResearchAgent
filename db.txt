@@ -1,0 +1,1120 @@
+
+
+Wikipédia
+Pesquisar na Wikipédia
+Procurar
+Doar
+Criar conta
+Iniciar sessão
+Logo Cada Livro, Seu Público
+Participe da campanha Cada Livro Seu Público editando sobre livros, autores, autoras e histórias orais na Wikipédia.
+Esconder
+Conteúdos ocultar
+Início
+Pré-história
+Babilônia
+Egito
+Grécia
+China
+Índia
+Impérios islâmicos
+Ver também
+Referências
+Bibliografia
+
+Geral
+Livros de um período específico
+Livros de um tópico específico
+Ligações externas
+
+Documentários
+Material educacional
+Bibliografias
+Organizações
+Jornais
+História da matemática
+
+Artigo
+Discussão
+Ler
+Editar
+Ver histórico
+
+Ferramentas
+Aparência ocultar
+Texto
+
+Pequeno
+
+Padrão
+
+Grande
+Largura
+
+Padrão
+
+Largo
+Cor (beta)
+
+Automático
+
+Claro
+
+Escuro
+
+Uma prova dos Elementos de Euclides (c. 300 a.C.), amplamente considerado o livro-texto mais influente de todos os tempos.[1]
+A história da matemática trata da origem das descobertas matemáticas e dos métodos e notações matemáticas do passado. Antes da era moderna e da disseminação mundial do conhecimento, exemplos escritos de novos desenvolvimentos matemáticos vieram à luz apenas em alguns locais. A partir de 3000 a.C., os estados mesopotâmicos da Suméria, Acádia e Assíria, seguidos de perto pelo Egito Antigo e o estado levantino de Ebla começaram a usar aritmética, álgebra e geometria para fins de tributação, comércio, trocas e também nos padrões da natureza, no campo da astronomia e para registrar o tempo e formular calendários.
+
+Os primeiros textos matemáticos disponíveis são da Mesopotâmia e Egito – Plimpton 322 (Babilônia c. 2000 – 1900 a.C.),[2] o Papiro de Rhind (Egípcio c. 1800 a.C.)[3] e o Papiro de Moscou (Egípcio c. 1890 a.C.). Todos esses textos mencionam os chamados ternos pitagóricos, portanto, por inferência, o teorema de Pitágoras parece ser o desenvolvimento matemático mais antigo e difundido depois da aritmética e da geometria básicas.
+
+O estudo da matemática como uma "disciplina demonstrativa" começou no século VI a.C. com os pitagóricos, que cunharam o termo "matemática" do grego antigo μάθημα (matema), que significa "sujeito de instrução".[4] A matemática grega refinou muito os métodos (especialmente através da introdução do raciocínio dedutivo e do rigor matemático nas provas) e expandiu o assunto da matemática.[5] Embora não tenham feito virtualmente nenhuma contribuição para a matemática teórica, os antigos romanos usavam a matemática aplicada no levantamento topográfico, engenharia estrutural, engenharia mecânica, contabilidade, criação de calendários lunares e solares, e até artes e ofícios. A matemática chinesa fez contribuições iniciais, incluindo um sistema de valor posicional e o primeiro uso de números negativos.[6][7] O sistema numérico hindu-arábico e as regras para o uso de suas operações, em uso em todo o mundo hoje, evoluíram ao longo do primeiro milênio d.C. na Índia e foram transmitidos para o mundo ocidental via matemática islâmica através do trabalho de Alcuarismi.[8][9] A matemática islâmica, por sua vez, desenvolveu e expandiu a matemática conhecida por essas civilizações.[10] Contemporânea com, mas independente dessas tradições, foi a matemática desenvolvida pela civilização maia do México e da América Central, onde o conceito de zero recebeu um símbolo padrão em numerais maias.
+
+Muitos textos gregos e árabes sobre matemática foram traduzidos para o latim a partir do século XII, levando a um maior desenvolvimento da matemática na Europa Medieval. Desde os tempos antigos até a Idade Média, os períodos de descoberta matemática foram frequentemente seguidos por séculos de estagnação. Começando na Itália renascentista no século XV, novos desenvolvimentos matemáticos, interagindo com novas descobertas científicas, foram feitos em um ritmo crescente que continua até os dias atuais. Isso inclui o trabalho inovador de Isaac Newton e Gottfried Wilhelm Leibniz no desenvolvimento do cálculo infinitesimal ao longo do século XVII.
+
+Pré-história
+As origens do pensamento matemático estão nos conceitos de número, padrões na natureza, magnitude e forma.[11] Estudos modernos de cognição animal mostraram que esses conceitos não são exclusivos dos humanos. Tais conceitos teriam feito parte do cotidiano das sociedades de caçadores-coletores. A ideia do conceito de "número" evoluindo gradualmente ao longo do tempo é sustentada pela existência de linguagens que preservam a distinção entre "um", "dois" e "muitos", mas não de números maiores que dois.[11]
+
+O mais antigo artefato matemático conhecido é o osso dos Libombos, datado de aproximadamente 35000 anos A.C.; possivelmente usado para calcular números e medir a passagem do tempo, foi encontrado nos Montes Libombos, no Essuatíni.[12] Outro artefato do tipo é o osso de Ishango, encontrado perto das cabeceiras do rio Nilo (nordeste do Congo-Quinxassa), que pode ter mais de vinte mil anos e consiste em uma série de marcas esculpidas em três colunas que percorrem o comprimento do osso. As interpretações comuns são que o osso de Ishango mostra uma contagem da mais antiga demonstração conhecida de sequências de números primos[13] ou um calendário lunar de seis meses.[14] argumenta que o desenvolvimento do conceito de números primos só poderia ter ocorrido após o conceito de divisão, que ele data depois de dez mil anos a.C., com números primos provavelmente não sendo compreendidos até cerca de 500 a.C. Ele também escreve que "nenhuma tentativa foi feita para explicar por que uma contagem de algo deve exibir múltiplos de dois, números primos entre dez e vinte e alguns números que são quase múltiplos de dez".[15] O osso de Ishango, de acordo com o estudioso Alexander Marshack, pode ter influenciado o desenvolvimento posterior da matemática egípcia, como algumas entradas no osso de Ishango, a aritmética egípcia também fez uso da multiplicação por dois; isso, no entanto, é contestado.[16]
+
+Egípcios pré-dinásticos do 5.º milênio a.C. representavam pictoricamente desenhos geométricos. Alegou-se que os monumentos megalíticos na Inglaterra e na Escócia, datados do 3.º milênio a.C., incorporam ideias geométricas como círculos, elipses e ternos pitagóricos em seu design.[17] No entanto, todos os itens acima são contestados, e os documentos matemáticos indiscutíveis atualmente mais antigos são de fontes egípcias babilônicas e dinásticas.[18]
+
+Babilônia
+Esta seção é um excerto de Matemática babilônica.[editar]
+
+Tabuleta de argila babilônica com inscrições. A diagonal mostra uma aproximação da raiz quadrada de 2, com seis casas decimais.
+1 + 24/60 + 51/602 + 10/603 = 1.41421296...
+
+A tabuleta Plimpton 322.
+Matemática Babilônica (também conhecido como Matemática Assírio-Babilônica[19][20][21][22][23][24]) se refere a qualquer forma de matemática desenvolvida pelos povos da Mesopotâmia, desde os dias dos antigos Sumérios até a queda da Babilônia em 539 a.C. Os textos matemáticos da Mesopotâmia são abundantes e bem documentados.[25] Em respeito a ordem cronológica eles são divididos em dois grupos: uma da Primeira dinastia babilônica (1830-1531 a.C.), e a segunda principalmente vai até o período do Império Selêucida nos últimos três ou quatro séculos a.C. Em relação ao conteúdo, há apenas pequenas diferenças entre os dois grupos de textos. Assim a matemática Babilônica se mantém constante, em seu conteúdo por cerca de dois milénios.[25] Em contraste com a escassez de fontes da Matemática Egípcia, o conhecimento sobre a matemática Babilônica é derivado de 400 tábuas de argila, desenterrados desde meados do séc XIX. Gravadas em escrita cuneiforme, as tábuas eram escritas quando a argila ainda estava úmida, e depois cozinhadas em fornos ou sob o calor do sol. A maioria das tábuas de argila datam de 1800 até 1600 a.C, e cobre tópicos a quais incluem frações, álgebra, equações quadráticas e equações cúbicas além do teorema de Pitágoras.
+
+Egito
+Esta seção é um excerto de Matemática egípcia antiga § Visão geral.[editar]
+Evidências escritas do uso da matemática datam de pelo menos 3200 a.C. com os rótulos de marfim encontrados na Tumba U-j em Abidos. Esses rótulos parecem ter sido usados ​​como etiquetas para bens funerários e alguns são inscritos com números.[26] Outras evidências do uso do sistema numérico decimal podem ser encontradas no Narmer Macehead, que mostra oferendas de 400 000 bois, 1 422 000 cabras e 120 000 prisioneiros.[27] Evidências arqueológicas sugerem que o antigo sistema de contagem egípcio teve origens na África Subsaariana.[28] Além disso, os desenhos de geometria fractal que são difundidos entre as culturas da África Subsaariana também são encontrados na arquitetura egípcia e nos signos cosmológicos.[29]
+
+A evidência do uso da matemática no Império Antigo (c. 2690–2180 a.C.) é escassa, mas pode ser deduzida de inscrições em uma parede perto de uma mastaba em Meidum que fornece diretrizes para a inclinação da mastaba.[30] As linhas no diagrama estão espaçadas a uma distância de um côvado e mostram o uso dessa unidade de medida.[26]
+
+Os primeiros documentos matemáticos verdadeiros datam da 12.ª Dinastia (c. 1990–1800 a.C.). O Papiro de Moscou, o Rolo de Couro Matemático Egípcio, o Papiro de Lahun, que fazem parte da coleção muito maior de Papiros de Kahun e o Papiro 6619 de Berlim, todos datam desse período. O Papiro de Rhind que data do Segundo Período Intermédio (c. 1650 a.C.) é baseado em um texto matemático mais antigo da 12.ª dinastia.[31]
+
+O papiro de Moscou e o papiro de Rhind são os chamados textos de problemas matemáticos. Eles consistem em uma coleção de problemas com soluções. Esses textos podem ter sido escritos por um professor ou aluno envolvido na resolução de problemas típicos de matemática.[26]
+
+Uma característica interessante da matemática egípcia antiga é o uso de frações unitárias.[32] Os egípcios usavam alguma notação especial para frações como ⁠
+1
+/
+2
+⁠, ⁠
+1
+/
+3
+⁠ e ⁠
+2
+/
+3
+⁠ e em alguns textos para ⁠
+3
+/
+4
+⁠, mas outras frações foram todas escritas como frações unitárias da forma ⁠
+1
+/
+n
+⁠ ou somas dessas frações unitárias. Os escribas usavam tabelas para ajudá-los a trabalhar com essas frações. O Rolo de Couro Matemático Egípcio, por exemplo, é uma tabela de frações unitárias que são expressas como somas de outras frações unitárias. O Papiro de Rhind e alguns dos outros textos contêm ⁠
+2
+/
+n
+⁠ tabelas. Essas tabelas permitiam que os escribas reescrevessem qualquer fração da forma ⁠
+1
+/
+n
+⁠ como uma soma de frações unitárias.[26]
+
+Durante o Império Novo (c. 1550–1070 a.C.) problemas matemáticos são mencionados no Papiro de Anastasi I literário, e o Papiro de Wilbour da época de Ramessés III registra medições de terras. Na aldeia de trabalhadores de Deir Almedina foram encontrados vários óstracos que registram volumes de sujeira removidos durante a extração dos túmulos.[26][31]
+
+Grécia
+Esta seção é um excerto de Matemática da Grécia Antiga.[editar]
+
+Esta página ou seção foi marcada para revisão devido a incoerências ou dados de confiabilidade duvidosa. . Se tem algum conhecimento sobre o tema, por favor, verifique e melhore a coerência e o rigor deste artigo.
+Considere colocar uma explicação mais detalhada na discussão.
+Esta página cita fontes, mas não cobrem todo o conteúdo
+Esta página cita fontes, mas que não cobrem todo o conteúdo. Ajude a inserir referências (Encontre fontes: Google (N • L • A • I • WP refs)  • ABW  • CAPES). (setembro de 2012)
+
+A Musa Geometria, no Museu do Louvre
+A matemática grega clássica ou matemática da Grécia Antiga é a matemática escrita em grego dentre ~600 a.C. (época em que viveu Tales de Mileto) até o fechamento da Academia de Platão em 529 d.C.[33]
+
+Egípcios, babilônicos e chineses, muito antes do século VI a.C., já eram já capazes de efetuar cálculos e medidas de ordem prática com grande precisão. Foram os gregos, no entanto, que introduziram o método axiomático: as rigorosas provas dedutivas e o encadeamento sistemático de teoremas demonstrativos que tornaram a Matemática uma ciência.[34]
+
+A palavra "matemática" (μαθηματική), que é de origem grega,[35] englobava o que hoje se chama de aritmética, geometria, astronomia e mecânica.[36] Mas os pitagóricos a dividiam em: aritmética, geometria, astronomia, e música. Na concepção de Aristóteles, apenas a aritmética e a geometria, as duas áreas teóricas que mais atraíram os gregos antigos, eram consideradas ciências puramente matemáticas.[37][38]
+
+China
+Esta seção é um excerto de Matemática chinesa.[editar]
+
+Os nove capítulos da arte matemática.
+A matemática na China surgiu de forma independente por volta do século XI a.C.[39] Os chineses desenvolveram de forma independente números muito grandes e negativos, decimais, um sistema decimal de valor posicional, um sistema binário, álgebra, geometria e trigonometria.
+
+Os matemáticos chineses antigos fizeram avanços no desenvolvimento de algoritmos e na álgebra. Enquanto a matemática grega declinou no oeste durante os tempos medievais, a conquista da álgebra chinesa alcançou o auge no século XIII, quando Zhu Shijie inventou o método de quatro incógnitas.
+
+Como resultado de óbvias barreiras linguísticas e geográficas, bem como de conteúdo, a matemática chinesa e a matemática do antigo mundo mediterrânico são assumidas como se tendo desenvolvido mais ou menos independentemente até ao momento em que Os nove capítulos da arte matemática atingiram a sua forma final, enquanto o Livro sobre Números e Cálculo e o Huainanzi são mais ou menos contemporâneos com a matemática grega clássica. É provável que tenha havido troca de ideias em toda a Ásia através de intercâmbios culturais conhecidos desde pelo menos os tempos romanos. Frequentemente, os elementos da matemática das sociedades primitivas correspondem a resultados rudimentares encontrados mais tarde em ramos da matemática moderna, como a geometria ou a teoria dos números. O teorema de Pitágoras, por exemplo, foi atestado no tempo do duque de Zhou. O conhecimento do triângulo de Pascal também mostrou ter existido na China, séculos antes de Pascal, como na dinastia Song, pelo polímata chinês Shen Kuo.[40]
+
+Índia
+Esta seção é um excerto de Matemática indiana.[editar]
+A matemática indiana surgiu no subcontinente indiano[41] a partir de 1 200 a.C. [42] e desenvolveu-se relativamente isolada, sem influência exterior, mas exportando seu conhecimento, até o final do século XVII. No período clássico da matemática indiana (400 a 1 600), importantes contribuições foram feitas por estudiosos como Ariabata, Brahmagupta, Mahavira, Bhaskara II, Madhava de Sangamagrama e Nilakantha Somayaji. O sistema de numeração decimal em uso hoje [43] foi primeiramente registrado na matemática indiana.[44] Matemáticos indianos fizeram contribuições iniciais para o estudo do conceito de zero como um número, [45] números negativos, [46] aritmética e álgebra.[47] Além disso, trigonometria era mais avançada na Índia,[48] e, em particular, as definições modernas de seno e cosseno foram desenvolvidas lá.[49] Estes conceitos matemáticos foram transmitidos para o Oriente Médio, China e Europa [47] e levaram a novos desenvolvimentos que agora formam os fundamentos de muitas áreas da matemática.
+
+Trabalhos matemáticos indianos antigos e medievais, todos compostas em sânscrito, geralmente consistiam de uma seção de sutras em que um conjunto de regras ou problemas eram apresentadas com grande economia nos versos, a fim de ajudar a memorização por um estudante. Isto era seguido por uma segunda seção que consistia de um comentário em prosa (às vezes vários comentários de diferentes estudiosos) que explicavam o problema mais detalhadamente e apresentavam uma justificação para a solução. Na seção prosa, a forma (e, portanto, sua memorização) não era considerada tão importante quanto as ideias envolvidas.[41][50] Todos os trabalhos matemáticos foram transmitidos oralmente até cerca de 500 a.C.; depois, foram transmitidos oralmente e em forma manuscrita. O mais antigo documentos matemático produzido existente no subcontinente indiano é a casca de bétula Manuscrito Bakhshali, descoberto em 1881 na aldeia de Bakhshali, perto de Pexauar (atual Paquistão) e é provável que seja do século VII.[51][52]
+
+Um marco posterior na matemática indiana foi o desenvolvimento dos expansões em séries para funções trigonométricas (seno, cosseno e arco tangente) por matemáticos da escola de Querala, no século XV. Seu trabalho notável, completou dois séculos antes da invenção do cálculo na Europa, sendo o que hoje é considerado o primeiro exemplo de uma série de potências (com exceção da série geométrica).[53] No entanto, eles não formularam uma teoria sistemática de diferenciação e integração, nem há qualquer evidência direta de seus resultados serem transmitidos fora de Querala.[54][55][56][57]
+
+Impérios islâmicos
+Esta seção é um excerto de Matemática islâmica.[editar]
+A matemática islâmica, durante a Era de Ouro do Islam, principalmente durante os séculos IX e X, foi baseada na matemática grega (Euclides, Arquimedes, etc) e também na matemática indiana (Aryabhata, Brahmagupta).
+
+Com a consolidação da dinastia Abássida ao conquistar o apoio religioso, além da construção de Bagdá, que viria a ser a nova capital, os califas buscaram a manutenção do poder através da valorização do conhecimento. Adquiriu-se a tecnologia do papel, proveniente da China, o que fomentou a disseminação de manuscritos e enraizou a cultura dos livros entre o povo árabe. [58]
+
+Aos poucos, o grego foi sendo substituído pelo árabe como a língua universal de pesquisa científica, as universidades começaram a surgir e a Casa da Sabedoria foi criada. [58]
+
+Neste período, foi feito um importante progresso, como o desenvolvimento do sistema posicional decimal, que inclui a ideia de frações, o primeiro estudo sistematizado da álgebra e avanços na geometria e trigonometria.
+
+Trabalhos árabes tiveram um papel importante na transmissão da matemática para a Europa durante os séculos X e XII.[59]
+
+Ver também
+História dos números longos
+Revolução Científica
+Referências
+(Boyer 1991, "Euclid of Alexandria" p. 119)
+J. Friberg, "Methods and traditions of Babylonian mathematics. Plimpton 322, Pythagorean triples, and the Babylonian triangle parameter equations", Historia Mathematica, 8, 1981, pp. 277–318.
+Neugebauer, Otto (1969) [1957]. The Exact Sciences in Antiquity. Acta Historica Scientiarum Naturalium et Medicinalium. 9 2 ed. [S.l.]: Dover Publications. pp. 1–191. ISBN 978-0-486-22332-2. PMID 14884919 Chap. IV "Egyptian Mathematics and Astronomy", pp. 71–96.
+Heath (1931). «A Manual of Greek Mathematics». Nature. 128 (3235): 5. Bibcode:1931Natur.128..739T. doi:10.1038/128739a0
+Sir Thomas L. Heath, A Manual of Greek Mathematics, Dover, 1963, p. 1: "In the case of mathematics, it is the Greek contribution which it is most essential to know, for it was the Greeks who first made mathematics a science."
+George Gheverghese Joseph, The Crest of the Peacock: Non-European Roots of Mathematics, Penguin Books, London, 1991, pp. 140–48
+Georges Ifrah, Universalgeschichte der Zahlen, Campus, Frankfurt/New York, 1986, pp. 428–37
+Robert Kaplan, "The Nothing That Is: A Natural History of Zero", Allen Lane/The Penguin Press, London, 1999
+"The ingenious method of expressing every possible number using a set of ten symbols (each symbol having a place value and an absolute value) emerged in India. The idea seems so simple nowadays that its significance and profound importance is no longer appreciated. Its simplicity lies in the way it facilitated calculation and placed arithmetic foremost amongst useful inventions. the importance of this invention is more readily appreciated when one considers that it was beyond the two greatest men of Antiquity, Archimedes and Apollonius." – Pierre Simon Laplace http://www-history.mcs.st-and.ac.uk/HistTopics/Indian_numerals.html
+A.P. Juschkewitsch, "Geschichte der Mathematik im Mittelalter", Teubner, Leipzig, 1964
+ (Boyer 1991, "Origins" p. 3)
+«Matemática na África». Universidade de Coimbra. Consultado em 8 de Junho de 2016
+Williams, Scott W. (2005). «The Oldest Mathematical Object is in Swaziland». Mathematicians of the African Diaspora. SUNY Buffalo mathematics department. Consultado em 6 de maio de 2006
+Marshack, Alexander (1991): The Roots of Civilization, Colonial Hill, Mount Kisco, NY.
+Rudman, Peter Strom (2007). How Mathematics Happened: The First 50,000 Years. [S.l.]: Prometheus Books. p. 64. ISBN 978-1-59102-477-4
+Marshack, A. 1972. The Roots of Civilization: the Cognitive Beginning of Man’s First Art, Symbol and Notation. New York: McGraw-Hil
+Thom, Alexander, and Archie Thom, 1988, "The metrology and geometry of Megalithic Man", pp. 132–51 in C.L.N. Ruggles, ed., Records in Stone: Papers in memory of Alexander Thom. Cambridge University Press. ISBN 0-521-33381-4.
+Damerow, Peter (1996). «The Development of Arithmetical Thinking: On the Role of Calculating Aids in Ancient Egyptian & Babylonian Arithmetic». Abstraction & Representation: Essays on the Cultural Evolution of Thinking (Boston Studies in the Philosophy & History of Science). [S.l.]: Springer. ISBN 0792338162. Consultado em 17 de agosto de 2019
+Lewy, H. (1949). 'Studies in Assyro-Babylonian mathematics and metrology'. Orientalia (NS) 18, 40–67; 137–170.
+Lewy, H. (1951). 'Studies in Assyro-Babylonian mathematics and metrology'. Orientalia (NS) 20, 1–12.
+Bruins, E.M. (1953). 'La classification des nombres dans les mathématiques babyloniennes. Revue d'Assyriologie 47, 185–188.
+Cazalas, (1932). 'Le calcul de la table mathématique AO 6456'. Revue d'Assyriologie 29, 183–188.
+Langdon, S. (1918). 'Assyriological notes: Mathematical observations on the Scheil-Esagila tablet'. Revue d'Assyriologie 15, 110–112.
+Robson, E. (2002). 'Guaranteed genuine originals: The Plimpton Collection and the early history of mathematical Assyriology'. In Mining the archives: Festschrift for Chrisopher Walker on the occasion of his 60th birthday (ed. C. Wunsch). ISLET, Dresden, 245–292.
+ Aaboe, Asger. "The culture of Babylonia: Babylonian mathematics, astrology, and astronomy." The Assyrian and Babylonian Empires and other States of the Near East, from the Eighth to the Sixth Centuries B.C. Eds. John Boardman, I. E. S. Edwards, N. G. L. Hammond, E. Sollberger and C. B. F. Walker. Cambridge University Press, (1991)
+ Imhausen, Annette (2006). «Ancient Egyptian Mathematics: New Perspectives on Old Sources». The Mathematical Intelligencer. 28 (1): 19–27. doi:10.1007/bf02986998
+Burton, David (2005). The History of Mathematics: An Introduction. [S.l.]: McGraw–Hill. ISBN 978-0-07-305189-5
+Eglash, Ron (1999). African fractals: modern computing and indigenous design. New Brunswick, N.J.: Rutgers University Press. pp. 89,141. ISBN 0813526140
+Eglash, R. (1995). «Fractal Geometry in African Material Culture». Symmetry: Culture and Science. 6–1: 174–177
+Rossi, Corinna (2007). Architecture and Mathematics in Ancient Egypt. [S.l.]: Cambridge University Press. ISBN 978-0-521-69053-9
+ The Mathematics of Egypt, Mesopotamia, China, India, and Islam: A Sourcebook. [S.l.]: Princeton University Press. 2007. ISBN 978-0-691-11485-9
+Reimer, David (11 de maio de 2014). Count Like an Egyptian: A Hands-on Introduction to Ancient Mathematics (em inglês). [S.l.]: Princeton University Press. ISBN 9781400851416
+Howard Eves, An Introduction to the History of Mathematics, pps. 49—165
+Israel Kleiner, Excursions in the History of Mathematics, pps. 154—156
+Marek Šulista - Mathematics and Mathematicians
+ISHK's Human Journey project - Mathematics in the Human Journey
+Chris Weinkopf - Greek Mathematics
+Para Kepler e Newton, respectivamente, a astronomia e a mecânica eram tão "puras" quanto à geometria. Na época de Kepler, a astronomia era considerada um ramo da matemática (vide John L. Heilbron - Copernican Cosmology in Catholic Countries around 1700). Já Newton, considerava a geometria um ramo da mecânica (vide David E. Rowe - Euclidean Geometry and Physical Space).
+History of mathematics: Chinese overview
+Frank J. Swetz and T. I. Kao: Was Pythagoras Chinese?
+ Encyclopædia Britannica (Kim Plofker) 2007, p. 1
+(Hayashi 2005, pp. 360–361)
+Ifrah 2000, p. 346: "The measure of the genius of Indian civilisation, to which we owe our modern (number) system, is all the greater in that it was the only one in all history to have achieved this triumph. Some cultures succeeded, earlier than the South Asian cultures, in discovering one or at best two of the characteristics of this intellectual feat. But none of them managed to bring together into a complete and coherent system the necessary and sufficient conditions for a number-system with the same potential as our own." - Tradução: “A medida do gênio da civilização indiana, à qual devemos o nosso sistema (numérico) moderno, é tanto maior na medida em que era o único em toda a história a ter conseguido esse triunfo. Algumas culturas conseguiram, mais cedo do que as culturas do sul da Ásia, a descoberta de um ou no máximo duas das características desta façanha intelectual. Mas nenhum deles conseguiu reunir, em um sistema completo e coerente, as condições necessárias e suficientes para um sistema de números com o mesmo potencial como o nosso.”
+Plofker 2009, pp. 44–47
+Bourbaki 1998, p. 46: "...our decimal system, which (by the agency of the Arabs) is derived from Hindu mathematics, where its use is attested already from the first centuries of our era. It must be noted moreover that the conception of zero as a number and not as a simple symbol of separation) and its introduction into calculations, also count amongst the original contribution of the Hindus." - Tradução: “... nosso sistema decimal, que (pela agência dos árabes) é derivado de matemática hindu, onde seu uso já era atestado desde os primeiros séculos da nossa era. Deve notar-se, além disso, que a concepção de zero como um número e não como um símbolo de separação simples) e a sua introdução em cálculos, também contam entre a contribuição original dos hindus.”
+Bourbaki 1998, p. 49: Modern arithmetic was known during medieval times as "Modus Indorum" or method of the Indians. Leonardo of Pisa wrote that compared to method of the Indians all other methods is a mistake. This method of the Indians is none other than our very simple arithmetic of addition, subtraction, multiplication and division. Rules for these four simple procedures was first written down by Brahmagupta during 7th century CE. "On this point, the Hindus are already conscious of the interpretation that negative numbers must have in certain cases (a debt in a commercial problem, for instance). In the following centuries, as there is a diffusion into the West (by intermediary of the Arabs) of the methods and results of Greek and Hindu mathematics, one becomes more used to the handling of these numbers, and one begins to have other "representation" for them which are geometric or dynamic." - Tradução: “Aritmética moderna foi conhecida durante a época medieval como "Modus Indorum" ou método dos indianos. Leonardo de Pisa escreveu que, em comparação com o método dos índianos todos os outros métodos eram um erro. Este método dos indianos não é outro senão a nossa aritmética muito simples de adição, subtração, multiplicação e divisão. Regras para estes quatro procedimentos simples foram escritas pela primeira vez por Brahmagupta durante século VII. "Neste ponto, os hindus já estavam conscientes da interpretação de que os números negativos devem existir, em certos casos (a dívida em um problema comercial, por exemplo). Nos séculos seguintes, como há uma difusão para o Oeste (por intermédio dos árabes) dos métodos e resultados da matemática grega e hindu, esse sistema torna-se mais utilizado para o tratamento destes números, e começa-se a ter outra "representação" para os que eram geométricos ou dinâmicos".
+ "algebra" 2007. Britannica Concise Encyclopedia. Encyclopædia Britannica Online. 16 May 2007. Citação: "A full-fledged decimal, positional system certainly existed in India by the 9th century (CE), yet many of its central ideas had been transmitted well before that time to China and the Islamic world. Indian arithmetic, moreover, developed consistent and correct rules for operating with positive and negative numbers and for treating zero like any other number, even in problematic contexts such as division. Several hundred years passed before European mathematicians fully integrated such ideas into the developing discipline of algebra." - Tradução: “Um sistema de posicionamento decimal de pleno direito certamente existiu na Índia por volta do século IX, mas muitas de suas ideias centrais tinham sido transmitidas bem antes que o tempo para a China e o mundo islâmico. A aritmética indiana, além disso, desenvolveu regras consistentes e corretas para operar com números positivos e negativos e para o tratamento de zero como qualquer outro número, mesmo em contextos problemáticos, como divisão. Várias centenas de anos se passaram antes de matemáticos europeus totalmente integrarem tais ideias no desenvolvimento da disciplina da álgebra.”
+(Pingree 2003, p. 45) Citação: "Geometry, and its branch trigonometry, was the mathematics Indian astronomers used most frequently. Greek mathematicians used the full chord and never imagined the half chord that we use today. Half chord was first used by Aryabhata which made trigonometry much more simple. In fact, the Indian astronomers in the third or fourth century, using a pre-Ptolemaic Greek table of chords, produced tables of sines and versines, from which it was trivial to derive cosines. This new system of trigonometry, produced in India, was transmitted to the Arabs in the late eighth century and by them, in an expanded form, to the Latin West and the Byzantine East in the twelfth century." - Tradução: “A Geometria, e seu ramo trigonometria, era a matemática que astrônomos indianos utilizavam mais frequentemente. Matemáticos gregos usaram a corda cheia e nunca imaginaram a metade da corda que usamos hoje. A metade da corda foi usada pela primeira vez por Ariabata que produziu trigonometria muito mais simples. Na verdade, os astrônomos indianos no terceiro ou quarto século, utilizando uma tabela pré-grega ptolomaica de cordas, produziram tabelas de senos e versenos (arco senos), a partir da qual era trivial derivar cossenos. Este novo sistema de trigonometria, produzido na Índia, foi transmitida aos árabes no final do século VIII e por elas, em uma forma expandida, para o Ocidente Latino e no Oriente Bizantino no século XII.”
+(Bourbaki 1998, p. 126): "As for trigonometry, it is disdained by geometers and abandoned to surveyors and astronomers; it is these latter (Aristarchus, Hipparchus,Ptolemy) who establish the fundamental relations between the sides and angles of a right angled triangle (plane or spherical) and draw up the first tables (they consist of tables giving the chord of the arc cut out by an angle on a circle of radius r, in other words the number ; the introduction of the sine, more easily handled, is due to Hindu mathematicians of the Middle Ages)." - Tradução: “Quanto a trigonometria, é desprezada pelos geômetras e abandonada por agrimensores e astrônomos; são estes últimos (Aristarco, Hiparco, Ptolomeu) que estabelecem as relações fundamentais entre os lados e ângulos de um triângulo retângulo (plano ou esférico) e elaboram as primeiras tabelas (eles consistem de quadros com a corda do arco cortado por um ângulo sobre um círculo de raio r, em outras palavras o número ; a introdução do seno, mais facilmente manipulado, é devido aos matemáticos hindus da Idade Média)."
+Filliozat 2004, pp. 140–143
+Hayashi 1995
+Encyclopædia Britannica (Kim Plofker) 2007, p. 6
+Stillwell 2004, p. 173
+Bressoud 2002, p. 12. Citação: "There is no evidence that the Indian work on series was known beyond India, or even outside Kerala, until the nineteenth century. Gold and Pingree assert [4] that by the time these series were rediscovered in Europe, they had, for all practical purposes, been lost to India. The expansions of the sine, cosine, and arc tangent had been passed down through several generations of disciples, but they remained sterile observations for which no one could find much use." - Tradução: “Não há nenhuma evidência de que o trabalho indiano sobre séries foi conhecido além da Índia, ou mesmo fora Querala, até o século XIX. Gold e Pingree afirmam que até o momento estas séries foram redescobertas na Europa, que tinham, para todos os efeitos práticos, sido perdidas para a Índia. As expansões do seno, cosseno, tangente e arco tinham sido transmitidas através de várias gerações de discípulos, mas permaneceram observações estéreis para o qual ninguém poderia encontrar muito uso.”
+Plofker 2001, p. 293. Citação: "It is not unusual to encounter in discussions of Indian mathematics such assertions as that “the concept of differentiation was understood [in India] from the time of Manjula (... in the 10th century)” [Joseph 1991, 300], or that "we may consider Madhava to have been the founder of mathematical analysis" (Joseph 1991, 293), or that Bhaskara II may claim to be "the precursor of Newton and Leibniz in the discovery of the principle of the differential calculus" (Bag 1979, 294). ... The points of resemblance, particularly between early European calculus and the Keralese work on power series, have even inspired suggestions of a possible transmission of mathematical ideas from the Malabar coast in or after the 15th century to the Latin scholarly world (e.g., in (Bag 1979, 285)). ... It should be borne in mind, however, that such an emphasis on the similarity of Sanskrit (or Malayalam) and Latin mathematics risks diminishing our ability fully to see and comprehend the former. To speak of the Indian "discovery of the principle of the differential calculus" somewhat obscures the fact that Indian techniques for expressing changes in the Sine by means of the Cosine or vice versa, as in the examples we have seen, remained within that specific trigonometric context. The differential "principle" was not generalised to arbitrary functions—in fact, the explicit notion of an arbitrary function, not to mention that of its derivative or an algorithm for taking the derivative, is irrelevant here"
+Tradução: Não é incomum encontrar em discussões de matemática indiana tais afirmações como que "o conceito de diferenciação foi entendido [na Índia] no tempo de Manjula (... no século X)” [Joseph 1991, 300], ou que "podemos considerar Madhava ter sido o fundador da análise matemática" (Joseph 1991, 293), ou que Bhaskara II pode ser aclamado como "o precursor de Newton e Leibniz na descoberta do princípio do cálculo diferencial" (Bag 1979, 294). … Os pontos de semelhança, particularmente entre cálculo primordial europeu e o trabalho de Keralese em séries de potências, tem sugestões inspiradas mesmo de uma possível transmissão de ideias matemáticas da costa de Malabar em ou após o século XV para o mundo acadêmico Latino (e.g., em (Bag 1979, 285)). ... Deve-se ter em mente, contudo, que tal ênfase sobre a semelhança do sânscrito (ou malaiala) e matemática latina corre o risco de diminuir a nossa capacidade plena de ver e compreender o primeiro. Para falar da "descoberta do princípio do cálculo diferencial" indiana pouco obscurece o fato de que as técnicas indianas para expressar mudanças no seno por meio da cosseno ou vice-versa, como nos exemplos que temos visto, permaneceu dentro desse específico contexto trigonométrico. O "princípio" diferencial não foi generalizado para funções arbitrárias—na verdade, a noção explícita de uma função arbitrária, para não mencionar que de uma derivada sua ou um algoritmo para tomar a derivado, é irrelevante aqui."
+Pingree 1992, p. 562 Citação: "One example I can give you relates to the Indian Mādhava's demonstration, in about 1400 A.D., of the infinite power series of trigonometrical functions using geometrical and algebraic arguments. When this was first described in English by Charles Matthew Whish, in the 1830s, it was heralded as the Indians' discovery of the calculus. This claim and Mādhava's achievements were ignored by Western historians, presumably at first because they could not admit that an Indian discovered the calculus, but later because no one read anymore the Transactions of the Royal Asiatic Society, in which Whish's article was published. The matter resurfaced in the 1950s, and now we have the Sanskrit texts properly edited, and we understand the clever way that Mādhava derived the series without the calculus; but many historians still find it impossible to conceive of the problem and its solution in terms of anything other than the calculus and proclaim that the calculus is what Mādhava found. In this case the elegance and brilliance of Mādhava's mathematics are being distorted as they are buried under the current mathematical solution to a problem to which he discovered an alternate and powerful solution."
+Tradução: "Um exemplo que eu posso dar-lhe relaciona-se com a demonstração do indiano Mādhava, aproximadamente em 1400., da série de infinitas potências de funções trigonométricas usando argumentos geométricos e algébricos. Quando isso foi descrito pela primeira vez em Inglês por Charles Matthew Whish, nos anos 1830s, foi anunciado como a descoberta do cálculo dos indianos. Esta alegação e conquistas de Mādhava foram ignoradas pelos historiadores ocidentais, presumivelmente, em primeiro lugar porque não podiam admitir que um indiano descobriu o cálculo, mas mais tarde, porque ninguém mais leria as Transactions of the Royal Asiatic Society, na qual o artigo de Whish foi publicado. A questão ressurgiu na década de 1950, e agora temos os textos sânscritos devidamente editados, e entendemos a maneira inteligente que Mādhava derivou a série sem o cálculo; mas muitos historiadores ainda acham que é impossível conceber o problema e sua solução em termos de outra coisa senão o cálculo e proclamar que o cálculo é o que Mādhava encontrou. Neste caso, a elegância e o brilho da matemática de Mādhava estão sendo distorcidos como eles estão enterrados sob a solução matemática atual para um problema para o qual ele descobriu uma alternativa e uma solução poderosa."
+Katz 1995, pp. 173–174 Citação: "How close did Islamic and Indian scholars come to inventing the calculus? Islamic scholars nearly developed a general formula for finding integrals of polynomials by A.D. 1000—and evidently could find such a formula for any polynomial in which they were interested. But, it appears, they were not interested in any polynomial of degree higher than four, at least in any of the material that has come down to us. Indian scholars, on the other hand, were by 1600 able to use ibn al-Haytham's sum formula for arbitrary integral powers in calculating power series for the functions in which they were interested. By the same time, they also knew how to calculate the differentials of these functions. So some of the basic ideas of calculus were known in Egypt and India many centuries before Newton. It does not appear, however, that either Islamic or Indian mathematicians saw the necessity of connecting some of the disparate ideas that we include under the name calculus. They were apparently only interested in specific cases in which these ideas were needed. There is no danger, therefore, that we will have to rewrite the history texts to remove the statement that Newton and Leibniz invented the calculus. They were certainly the ones who were able to combine many differing ideas under the two unifying themes of the derivative and the integral, show the connection between them, and turn the calculus into the great problem-solving tool we have today."
+Tradução: "Quão perto estudiosos islâmicos e indianos estiveram de inventar o cálculo? Estudiosos islâmicos quase desenvolveram uma fórmula geral para a determinação de integrais de polinômios em 1000—e, evidentemente, poderiam encontrar uma fórmula para qualquer polinômio em que eles estavam interessados. Mas, ao que parece, eles não estavam interessados em qualquer polinômio de grau maior do que quatro, pelo menos, em qualquer parte do material que chegou até nós. Estudiosos indianos, por outro lado, eram em 1600 capazes de usar a fórmula da soma de ibne al-Haitam para potências arbitrárias integrais no cálculo de séries de potências para as funções em que estavam interessados. Ao mesmo tempo, eles também sabiam como calcular as diferenciais destas funções. Assim, algumas das ideias básicas de cálculo eram conhecidas no Egito e Índia muitos séculos antes de Newton. Não parece, no entanto, que os matemáticos islâmicos ou indianos viram a necessidade de ligar algumas das ideias díspares que incluímos sob o nome de cálculo. Eles estavam aparentemente interessados apenas em casos específicos nos quais essas ideias eram necessárias. Não há perigo, portanto, que tenhamos de reescrever os textos de história para remover a afirmação de que Newton e Leibniz tenham inventado o cálculo. Eles foram certamente os únicos que foram capazes de combinar muitas ideias diferentes ao abrigo dos dois temas unificadores da derivada e a integral, mostrando a conexão entre eles, e tornar o cálculo a grande ferramenta de resolução de problemas que temos hoje."
+ Anais XVI Encontro Regional de História da ANPUH-RIO: saberes e práticas científicas. [S.l.]: Anpuh-Rio. 22 de julho de 2014
+Lumpkin, Beatrice; Zitler, Siham (1992). Cairo: Science Academy of the Middle Ages. [S.l.]: Transaction Publishers. p. 394
+Bibliografia
+Berggren, Lennart; Borwein, Jonathan M.; Borwein, Peter B. (2004), Pi: A Source Book, ISBN 978-0-387-20571-7, New York: Springer
+Boyer, C.B. (1991) [1989], A History of Mathematics, ISBN 978-0-471-54397-8 2nd ed. , New York: Wiley
+Cuomo, Serafina (2001), Ancient Mathematics, ISBN 978-0-415-16495-5, London: Routledge
+Goodman, Michael, K.J. (2016), An introduction of the Early Development of Mathematics, ISBN 978-1-119-10497-1, Hoboken: Wiley
+Gullberg, Jan (1997), Mathematics: From the Birth of Numbers, ISBN 978-0-393-04002-9, New York: W.W. Norton and Company
+Joyce, Hetty (julho de 1979), «Form, Function and Technique in the Pavements of Delos and Pompeii», American Journal of Archaeology, 83 (3): 253–63, JSTOR 505056, doi:10.2307/505056.
+Katz, Victor J. (1998), A History of Mathematics: An Introduction, ISBN 978-0-321-01618-8 2nd ed. , Addison-Wesley
+Katz, Victor J. (2007), The Mathematics of Egypt, Mesopotamia, China, India, and Islam: A Sourcebook, ISBN 978-0-691-11485-9, Princeton, NJ: Princeton University Press
+Needham, Joseph; Wang, Ling (1995) [1959], Science and Civilization in China: Mathematics and the Sciences of the Heavens and the Earth, ISBN 978-0-521-05801-8, 3, Cambridge: Cambridge University Press
+Needham, Joseph; Wang, Ling (2000) [1965], Science and Civilization in China: Physics and Physical Technology: Mechanical Engineering, ISBN 978-0-521-05803-2, 4 reprint ed. , Cambridge: Cambridge University Press
+Sleeswyk, Andre (outubro de 1981), «Vitruvius' odometer», Scientific American, 252 (4): 188–200, Bibcode:1981SciAm.245d.188S, doi:10.1038/scientificamerican1081-188.
+Straffin, Philip D. (1998), «Liu Hui and the First Golden Age of Chinese Mathematics», Mathematics Magazine, 71 (3): 163–81, doi:10.1080/0025570X.1998.11996627
+Tang, Birgit (2005), Delos, Carthage, Ampurias: the Housing of Three Mediterranean Trading Centres, ISBN 978-88-8265-305-7, Rome: L'Erma di Bretschneider (Accademia di Danimarca).
+Volkov, Alexei (2009), «Mathematics and Mathematics Education in Traditional Vietnam», in: Robson, Eleanor; Stedall, Jacqueline, The Oxford Handbook of the History of Mathematics, ISBN 978-0-19-921312-2, Oxford: Oxford University Press, pp. 153–76
+Geral
+Aaboe, Asger (1964). Episodes from the Early History of Mathematics. New York: Random House
+Bell, E.T. (1937). Men of Mathematics. [S.l.]: Simon and Schuster
+Burton, David M. The History of Mathematics: An Introduction. McGraw Hill: 1997.
+Grattan-Guinness, Ivor (2003). Companion Encyclopedia of the History and Philosophy of the Mathematical Sciences. [S.l.]: The Johns Hopkins University Press. ISBN 978-0-8018-7397-3
+Kline, Morris. Mathematical Thought from Ancient to Modern Times.
+Struik, D.J. (1987). A Concise History of Mathematics, fourth revised edition. Dover Publications, New York.
+Livros de um período específico
+Gillings, Richard J. (1972). Mathematics in the Time of the Pharaohs. Cambridge, MA: MIT Press
+Heath, Sir Thomas (1981). A History of Greek Mathematics. [S.l.]: Dover. ISBN 978-0-486-24073-2
+van der Waerden, B.L., Geometry and Algebra in Ancient Civilizations, Springer, 1983, ISBN 0-387-12159-5.
+Livros de um tópico específico
+Corry, Leo (2015), A Brief History of Numbers, ISBN 978-0198702597, Oxford University Press
+Hoffman, Paul (1998). The Man Who Loved Only Numbers: The Story of Paul Erdős and the Search for Mathematical Truth. [S.l.]: Hyperion. ISBN 0-7868-6362-5
+Menninger, Karl W. (1969). Number Words and Number Symbols: A Cultural History of Numbers. [S.l.]: MIT Press. ISBN 978-0-262-13040-0
+Stigler, Stephen M. (1990). The History of Statistics: The Measurement of Uncertainty before 1900. [S.l.]: Belknap Press. ISBN 978-0-674-40341-3
+Ligações externas
+
+O Wikiquote tem citações relacionadas a História da matemática.
+Documentários
+BBC (2008). The Story of Maths.
+Renaissance Mathematics, BBC Radio 4 discussion with Robert Kaplan, Jim Bennett & Jackie Stedall (In Our Time, Jun 2, 2005)
+Material educacional
+MacTutor History of Mathematics archive(John J. O'Connor and Edmund F. Robertson; University of St Andrews, Scotland). An award-winning website containing detailed biographies on many historical and contemporary mathematicians, as well as information on notable curves and various topics in the history of mathematics.
+History of Mathematics Home Page(David E. Joyce; Clark University). Articles on various topics in the history of mathematics with an extensive bibliography.
+The History of Mathematics(David R. Wilkins; Trinity College, Dublin). Collections of material on the mathematics between the 17th and 19th century.
+Earliest Known Uses of Some of the Words of Mathematics(Jeff Miller). Contains information on the earliest known uses of terms used in mathematics.
+Earliest Uses of Various Mathematical Symbols(Jeff Miller). Contains information on the history of mathematical notations.
+Mathematical Words: Origins and Sources(John Aldrich, University of Southampton) Discusses the origins of the modern mathematical word stock.
+Biographies of Women Mathematicians(Larry Riddle; Agnes Scott College).
+Mathematicians of the African Diaspora(Scott W. Williams; University at Buffalo).
+Notes for MAA minicourse: teaching a course in the history of mathematics. (2009)(V. Frederick Rickey & Victor J. Katz).
+Bibliografias
+A Bibliography of Collected Works and Correspondence of Mathematiciansarchive dated 2007/3/17 (Steven W. Rockey; Cornell University Library).
+Organizações
+International Commission for the History of Mathematics
+Jornais
+Historia Mathematica
+Convergence, the Mathematical Association of America's online Math History Magazine
+History of MathematicsMath Archives (University of Tennessee, Knoxville)
+History/BiographyThe Math Forum (Drexel University)
+History of Mathematics(Courtright Memorial Library).
+History of Mathematics Web Sites(David Calvis; Baldwin-Wallace College)
+Historia de las Matemáticas(Universidad de La La guna)
+História da Matemática(Universidade de Coimbra)
+Using History in Math Class
+Mathematical Resources: History of Mathematics(Bruno Kevius)
+History of Mathematics(Roberta Tucci)
+[Expandir]vde
+História da ciência
+ Portal da matemática  Portal da história da ciência
+Categoria: História da matemática
+Esta página foi editada pela última vez em 29 de maio de 2025, às 01h21min. A página foi renderizada com Parsoid.
+Este texto é disponibilizado nos termos da licença Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0) da Creative Commons; pode estar sujeito a condições adicionais. Para mais detalhes, consulte as condições de utilização.
+Política de privacidadeSobre a WikipédiaAvisos geraisContactos Legais e SegurançaCódigo de CondutaDesenvolvedoresEstatísticasDeclaração sobre cookiesVersão móvel
+Wikimedia Foundation
+Powered by MediaWiki
+
+
+1
+Museu de Topografia prof. Laureano Ibrahim
+Chaffe
+Departamento de Geodésia – UFRGS
+A MATEMÁTICA NA ANTIGUIDADE
+(Pré-História, Egito Antigo, Mesopotâmia e Grécia
+Antiga)
+Texto: : Iran Carlos Stalliviere Corrêa, Instituto de Geociências-
+UFRGS, Museu de Topografia Prof. Laureano Ibrahim Chaffe, Brasil.
+I – Pré-História
+Considera-se como pré-história todo o período anterior
+a escrita. Neste período o homem era nômade, vivia em
+pequenos grupos, caçava, pescava e morava em cavernas.
+Não havia civilização como hoje nós a conhecemos.
+• Contexto Histórico
+Durante a pré-história a sociedade era extremamente
+rígida. As pequenas comunidades eram formadas por clãs
+ou tribos comandadas por um líder ou chefe tribal. Não
+havia ascensão social, fora quando a autoridade do chefe
+era contestada e conseguia-se um novo líder por meio de
+lutas. Não havia forma alguma de política. Neste período
+havia a “lei do mais forte”.
+Nesta sociedade primitiva, os homens caçavam e
+obtinham todo tipo de alimento. Às mulheres estava
+destinado cuidar dos filhos e preparar o alimento que os
+homens traziam.
+As comunidades (tribos) eram pequenas, mais ou
+menos quarenta pessoas por grupo, pois a alimentação era2
+escassa e em pouco tempo o alimento acabava em
+determinado lugar. Por este motivo os grupos eram
+nômades, viviam se deslocando, procurando alimentos.
+Também não existia um processo econômico
+propriamente dito, pois não existiam ainda os processos de
+troca de mercadorias nem a cunhagem de moedas. As
+pessoas sobreviviam com aquilo que obtinham a cada dia.
+Com o passar do tempo, as civilizações propriamente
+ditas, começaram a se desenvolver no crescente fértil (rios
+Tigre e Eufrates na Mesopotâmia, Rios Indo e Ganges na
+Índia e Delta do Nilo na África) e também onde hoje está
+situada a América Central, com as culturas Asteca e Maia.
+O rompimento da pré-história e por conseqüência, a
+criação das civilizações e das grandes cidades, só foi
+possível com o desenvolvimento da agricultura, em um
+processo que ficou conhecido como “Revolução Agrícola”.
+Esta foi a primeira grande revolução que mexeu com toda a
+humanidade. A segunda seria a “Revolução Industrial” e a
+terceira a “Revolução Tecnológica”.
+• Contexto matemático
+Este período foi marcado por um baixíssimo nível
+intelectual, científico e matemático. Os aspectos sociais,
+políticos e econômicos acima citados, tiveram influência
+direta nesta pouca produção intelectual das sociedades.
+Mesmo assim, podemos citar algumas descobertas
+científicas e matemáticas.
+Neste período houve a elaboração de um processo
+rudimentar de contagem: ranhuras em ossos, marcas em
+galhos, desenhos em cavernas e pedras. Também podemos
+citar aqui o processo que muitos utilizavam para relacionar3
+quantidades, ou seja, para cada unidade obtida, era
+colocada uma pequena pedra em um saquinho.
+Alguns povos, como os Sioux (tribo indígena
+americana) confeccionaram calendários pictográficos,
+desenhados em cavernas.
+Destaca-se também a confecção de instrumentos e
+artefatos de guerra (primeiro em pedra, depois em bronze
+e ferro).
+Como já comentamos anteriormente, foi somente após
+a revolução agrícola que as descobertas científicas e
+matemáticas tiveram um maior impulso. Esta revolução
+abriu o caminho não só para a criação das grandes
+civilizações, mas também para tudo aquilo que cerca esta
+construção.
+II – Egito Antigo
+A civilização Egípcia se desenvolveu ao longo de uma
+extensa faixa de terra fértil que margeava o rio Nilo. Este
+rio prestou-se muito ao estabelecimento de grupos
+humanos. Suas margens férteis revelaram-se propícias à
+agricultura e, ainda, suas águas caudalosas facilitavam a
+abertura de canais de irrigação e a construção de diques. O
+estudo do Egito antigo está determinado entre 4.000 a.c. à
+30 a.c. Houve vários períodos dentro da história egípcia
+antiga, mas todos eles tiveram basicamente o mesmo
+aspecto social político e econômico, bem como matemático
+e científico. Somente com a invasão pelos romanos no
+século I a.c. é que ocorre um rompimento com sua cultura
+milenar.4
+• Contexto Histórico
+A sociedade Egípcia era extremamente rígida. A
+pirâmide social era fixa e composta desta maneira: Faraó
+(nobreza) – sacerdotes – escribas – camponeses -
+escravos. Havia uma administração estatal, centralizada no
+faraó que era o senhor absoluto de tudo que havia no
+Egito. O poder do faraó era fortalecido pela crença que o
+poder divino estava vinculado ao poder civil na pessoa do
+faraó, considerado um deus na terra.
+Além do faraó que era o senhor absoluto, havia uma
+poderosa nobreza fundiária que cooperava na
+administração e na exploração do trabalho dos
+camponeses. Apenas a família do faraó, os sacerdotes e os
+nobres tinham acesso a uma educação rudimentar. Alguns
+escribas também obtinham, mediante vontade do faraó,
+acesso à educação.
+Em um primeiro momento a economia Egípcia estava
+baseada na agricultura e no trabalho escravo. Os
+camponeses cultivavam a terra e entregavam aos nobres e
+ao faraó. Eles só tinham direito a uma pequena parte dos
+produtos para sua subsistência.
+Em um segundo momento a economia foi ampliada
+para um comércio de troca de mercadorias com outros
+povos que viviam em outras regiões, principalmente os
+mesopotâmicos.
+Pelo fato de que a sociedade egípcia era uma
+sociedade extremamente fixa, centrada na pessoa do faraó,
+que não permitia uma maior abertura para as classes
+inferiores, as ciências também foram prejudicadas. Mas,
+mesmo assim houve um grande avanço científico e
+matemático neste período.5
+• Contexto matemático
+Um dos ramos da ciência que teve um avanço
+significativo foi a medicina. Os médicos (sacerdotes)
+egípcios possuíam um grande conhecimento na medicina,
+como bem comprovam as múmias de vários faraós
+descobertas nos dois últimos séculos, bem como o acesso a
+vários papiros.
+Na matemática, também tivemos grandes avanços. A
+matemática egípcia sempre foi essencialmente prática.
+Quando o rio Nilo estava no período das cheias,
+começavam os problemas para as pessoas. Para resolver
+este problema foram desenvolvidos vários ramos da
+matemática. Foram construídas obras hidráulicas,
+reservatórios de água e canais de irrigação no rio Nilo.
+Procedeu-se a drenagem dos pântanos e regiões alagadas.
+Começou-se também com uma geometria elementar e
+uma trigonometria básica (esticadores de corda) para
+facilitar a demarcação de terras. Com isto procedeu-se a
+um princípio de cálculo de áreas, raízes quadradas e
+frações. Também sabemos que os egípcios conheciam as
+relações métricas em um triângulo retângulo. O teorema de
+Pitágoras, na realidade, já era conhecido por povos bem
+mais antigos que os gregos.
+No século XVIII d.c. foram descobertos vários papiros
+em escavações no Egito. Do ponto de vista matemático os
+mais importantes são os papiros de Moscou e os Papiros de
+Rhind. Estes papiros trazem uma série de problemas e
+coleções matemáticas em linguagem hieróglifa. Só foi
+possível a decifração desta linguagem, por Champolion,
+quando em 1799 uma expedição do exército francês, sob o
+comando de Napoleão Bonaparte, descobriu perto de6
+Rosetta, Alexandria uma pedra com escrita em três línguas:
+grego, demótico e hieróglifa. Somente com esta pedra foi
+possível decifrar a linguagem hieróglifa e traduzir estes
+papiros com grandes preciosidades matemáticas egípcias.
+Outra ciência que teve um avanço muito grande neste
+período foi a astronomia. Os sacerdotes egípcios faziam
+cálculos astronômicos para determinar quando iriam
+ocorrer as cheias do Nilo. Baseados nestes cálculos eles
+construíram um calendário com 12 meses de 30 dias.
+A construção das grandes pirâmides faz supor que o
+conhecimento matemático dos egípcios era muito mais
+avançado que o conhecido nos papiros. Talvez o fato da
+escrita ser muito difícil tenha sido um dos motivos que
+impediu este registro. Talvez, ainda, estes registros tenham
+sido feito em papiros que não chegaram aos nossos dias.
+Podemos afirmar, com absoluta certeza, que a
+matemática egípcia foi um dos pilares da matemática
+grega, a qual foi a base para a nossa matemática moderna.
+Isto em geometria, trigonometria ou mesmo na
+astronomia.
+III – Mesopotâmia
+A Mesopotâmia, que em Grego significa “terra entre
+rios”, situava-se no oriente médio, no chamado crescente
+fértil, entre os rios Tigre e Eufrates, onde hoje está situado
+o Iraque e a Síria, principalmente. Os povos que formavam
+a Mesopotâmia foram os Sumérios, Acádios, Amoritas,
+Caldeus e Hititas, os quais lutavam pela posse das terras
+aráveis.
+Por estar situado nesta região geográfica, a
+Mesopotâmia estava mais sujeita às invasões e conquistas7
+de vários povos, ao contrário do que ocorreu no Egito. As
+duas civilizações, Egípcia e Mesopotâmica, desenvolveram-
+se no mesmo período. Mas, este desenvolvimento deu-se
+em separado, não havendo um intercâmbio de informações.
+As mesmas dificuldades que acarretaram o
+desenvolvimento das ciências no Egito foram a mola
+propulsora deste desenvolvimento nesta região. Porém ao
+contrário do que ocorria com as águas do rio Nilo, os
+períodos de cheia dos rios Tigre e Eufrates eram bastante
+irregulares, obrigando a realização de numerosas obras de
+irrigação e drenagem, com períodos de observação e
+desenvolvimento com uma maior dificuldade.
+• Contexto Histórico
+A população residia em grandes cidades, governadas
+por um rei-sacerdote, chamado Patesi. Como esta região
+estava situada em uma região permanentemente sujeita a
+invasões, estas cidades eram extremamente militarizadas.
+É desta região a elaboração do primeiro código escrito
+de leis. O código de Hamurabi, conhecido como “Lei de
+Talião”. Este código foi escrito pelo rei Hamurabi, em torno
+de 2.000 a.c. e privilegiava principalmente a nobreza, em
+detrimento do restante da população.
+Durante o período entre 4.000 a.c. e 1200 a.c. foi
+inventada uma das primeiras formas conhecidas de escrita,
+a escrita cuneiforme e a fundação de grandes cidades
+(Lasash, Ur, Uruk e Babilônia). A escrita cuneiforme era
+realizada por meio de cunhas produzidas em tabletes de
+barro cozido, o qual garantia a sua permanência e
+conservação por um longo período, sendo que muitos
+tabletes chegaram até nossos dias, permitindo acesso
+àquela cultura. O processo de decifrar esta escrita só foi8
+conseguido no século XIX por Henry Cheswike Rawlison e
+Georg Friedrich Grotenfrend.
+Uma das tabelas mais importantes, sob o ponto de
+vista matemático, foi a chamada tábua “Plimpton 322”, a
+qual traz uma série de informações matemáticas, entre elas
+a relação entre os três lados de um triângulo.
+Assim como a sociedade egípcia, a sociedade
+mesopotâmica tinha sua pirâmide social extremamente
+rígida, não permitindo a mobilidade social. Esta pirâmide
+tinha duas camadas. A camada mais alta era formada pelo
+rei e seus familiares, seguidos por uma nobreza fundiária,
+sacerdotes e ricos mercadores. Na base da sociedade
+estavam os camponeses e os escravos. Esta sociedade era
+altamente militarizada e extremamente cruel para com os
+povos dominados por meio de guerras ou da cobrança de
+impostos.
+Com o advento do código de Hamurabi esta sociedade
+foi dividida em três grupos distintos: Homens livres
+privilegiados (grandes proprietários de terra, comerciantes
+e sacerdotes); Homens livres (artesãos, pequenos
+comerciantes e servidores no palácio real) e Escravos
+(prisioneiros de guerras ou pessoas que não conseguiam
+pagar as suas dívidas).
+A economia estava baseada na agricultura e no
+comércio de trocas. Visto a localização geográfica da região
+que facilitava o contato entre os povos conhecidos da
+época.
+Não havia um processo político como conhecemos
+hoje, pois o rei detinha o poder absoluto e total.9
+• Contexto matemático
+A ciência e, por conseqüência, a matemática
+mesopotâmica teve um grande desenvolvimento por parte
+dos sacerdotes que detinham o saber nesta civilização.
+Assim como a matemática Egípcia, esta civilização teve
+uma matemática e/ou ciência extremamente prática. As
+matemáticas orientais surgiram como uma ciência prática,
+com o objetivo de facilitar o cálculo do calendário, a
+administração das colheitas, organização de obras públicas
+e a cobrança de impostos, bem como seus registros.
+As águas dos rios Tigre e Eufrates proporcionavam
+facilidades para o transporte de mercadorias, o que ajudou
+a desenvolver um processo de navegação.
+Foram desenvolvidos nestes rios grandes projetos de
+irrigação das terras cultiváveis e a construção de grandes
+diques de contenção, abrindo assim o caminho para o
+desenvolvimento de uma engenharia primitiva.
+Procedeu-se ao desenvolvimento de uma astronomia
+rudimentar para o cálculo do período de cheias e vazantes
+dos rios, mesmo que estes períodos não fossem regulares
+como os do rio Nilo no Egito.
+Os Babilônicos (assim também eram chamados os
+povos mesopotâmicos) tinham uma maior habilidade e
+facilidade para efetuar cálculos, talvez em virtude de sua
+linguagem ser mais acessível que a egípcia. Eles tinham
+técnicas para equações quadráticas e bi-quadráticas, além
+de possuírem fórmulas para áreas de figuras retilíneas
+simples e fórmulas para o cálculo do volume de sólidos
+simples. Sua geometria tinha suporte algébrico. Também
+conheciam as relações entre os lados de um triângulo10
+retângulo e trigonometria básica, conforme descrito na
+tábua “Plimpton 322”.
+Ao contrário dos Egípcios, que tinham um sistema
+posicional de base 10, os babilônicos possuíam um sistema
+posicional sexagesimal bem desenvolvido, o qual trazia
+enormes facilidades para os cálculos, visto que os divisores
+naturais de 60 são 1,2,3,4,5,6,10,12,15,20,30,60,
+facilitando o cálculo com frações.
+Por tudo isto que foi descrito, a matemática Babilônica
+tinha um nível mais elevado que a matemática Egípcia.
+Pelo fato da Mesopotâmia estar situada no centro do
+mundo conhecido da época, o que propiciava grandes
+invasões e muito contato com outros povos, ela teve um
+papel muito grande no desenvolvimento da matemática de
+um povo que teve um papel muito importante na história: o
+povo Grego. Graças a este contato com o povo Grego,
+muito desta matemática chegou até os nossos dias.
+IV – Grécia Clássica
+Consideramos o período compreendido entre 2.000
+a.c. até 35 a.c. como sendo o período clássico ou período
+de ouro do povo Grego. Período este que se encerra com o
+domínio da Grécia pelos Romanos.
+A civilização Grega foi formada por muitos povos que
+se originaram da Europa central e da Ásia. Antes, porém,
+de comentar sobre estes povos convém fazer um breve
+comentário sobre um povo que teve uma influência muito
+grande sobre a construção da Grécia e de sua cultura: os
+Cretenses.11
+Os Cretenses, habitantes da ilha de Creta, desde
+3.000 a.c., com expressão maior entre 2.000 a.c. à 1.500
+a.c., notabilizaram-se pelo comércio marítimo, artesanato,
+arte e a influência sobre os Gregos. Tiveram um comércio
+muito grande com o Egito, Fenícia e a Síria. As transações
+comerciais eram registradas em papiros com uma escrita
+acessível aos mercadores. Este contato com os demais
+povos possibilitou um intercâmbio muito grande com as
+demais culturas e propiciou avanços matemáticos e
+científicos ampliando os conhecimentos tecnológicos do
+período, haja vista as ruínas de banheiros e sistemas de
+esgotos descobertos em escavações.
+O povo da ilha de Creta tinha uma sociedade original e
+desenvolvida, dando lugar de destaque à mulher, ao
+contrário das demais civilizações do período. Registros
+indicam que não havia escravidão.
+Quando a ilha de Creta, mais precisamente a cidade
+de Cnossos, foi ocupada pelos Aqueus, esta civilização foi
+subjugada. Apesar de conquistadores, os Aqueus
+absorveram a cultura Cretense.
+A civilização grega, propriamente dita, foi formada nos
+séculos XX a.c. a XII a.c. por invasões de Aqueus, Jônios,
+Eólios e Dórios.
+• Contexto Histórico
+A Grécia antiga é considerada como o berço da
+civilização ocidental. Mas, na realidade, vimos que
+anteriormente a ela desenvolveu-se a civilização cretense.
+Como a Grécia antiga era chamada de Hélade, este povo foi
+denominado, na antiguidade, “Helenos”.12
+A história da Grécia pode ser dividida em quatro
+períodos:
+• Período Homérico (Séculos XII até VIII a.c.)
+Pouco se sabe sobre este período. Sabe-se apenas que
+ele começou com a invasão dos Dórios. As poucas
+informações são os vestígios arqueológicos obtidos em
+escavações e os poemas “Ilíada” e “Odisseia” de Homero.
+• Período Arcaico (Séculos VIII até VI a.c.)
+Este período foi marcado por uma grande expansão
+marítima e comercial pelo mediterrâneo, estreitando os
+laços econômicos com os demais povos, tornando a
+atividade comercial a mais importante da economia Grega.
+Esta atividade consistia em comércio exterior, com a
+exportação de mármore, azeite, vinhos, frutas e na
+importação de trigo, metais, madeiras, tecidos. Com este
+crescimento da nova atividade, uma poderosa classe de
+comerciantes surgiu. Esta classe passou a lutar por seus
+direitos, principalmente políticos, visto que eram as famílias
+nobres que estavam no poder. Com isto, ocorreram
+grandes modificações nas formas políticas. A maior delas
+foi a criação da democracia na cidade-estado de Atenas.
+Mas, mesmo a democracia era excludente, visto que
+escravos, estrangeiros e mulheres não podiam participar
+das decisões. Esta economia também estava baseada no
+emprego, de forma predominante, da mão-de-obra
+escrava. Os escravos eram obtidos de três maneiras:
+nascimento, guerras de conquista e condenação por
+dívidas.
+• Período Clássico – Época de Ouro (Séculos VI até IV
+a.c.)
+Durante este período a civilização grega atingiu seu
+apogeu, com a estabilização da democracia, obras dos13
+principais artistas e filósofos, bem como o desenvolvimento
+do estudo da matemática e ciências.
+Podemos citar, deste período, Demócrito (460-370
+a.c.) que foi o primeiro a afirmar a existência do átomo
+como elemento indivisível e Hipócrates (460-377 a.c.) que,
+no tratamento médico, defendeu uma análise das doenças
+a partir dos sintomas apresentados pelo paciente, em
+substituição às crenças e superstições.
+Este período também foi marcado por guerras contra
+os Persas e guerras internas entre as cidades-estado,
+principalmente a guerra entre Atenas e Esparta.
+• Período Helenístico (Séculos IV até I a.c.)
+Este período começa com a dominação da Grécia,
+enfraquecida pelas guerras internas e contra os Persas,
+pelos Macedônios. Em 308 a.c. Filipe da Macedônia
+derrotou os exércitos Gregos. A dominação foi mantida por
+seu filho, Alexandre Magno, o qual dominou o mundo
+conhecido da época, chegando até partes da Índia.
+Alexandre havia sido aluno de Aristóteles e por este motivo,
+mesmo com a dominação militar, as ciências e as artes
+continuaram progredindo, mas em ritmo mais reduzido.
+Com Alexandre Magno ocorreu a fusão da cultura Grega
+com a oriental, o que auxiliou em muito a expansão das
+ciências e da matemática, principalmente em contatos com
+Árabes e Hindus.
+Com a morte de Alexandre, seu império foi dividido
+entre seus três generais: Antígono (Grécia e Macedônia),
+Ptolomeu (Egito) e Seleuco (Mesopotâmia, Síria e Pérsia).
+No século I a.c. todas estas regiões foram dominadas
+pelos romanos. Com esta dominação a cultura grega entrou14
+em declínio, culminando este declínio com o fechamento da
+escola de Atenas pelo imperador romano Justiniano.
+Durante todos estes períodos a sociedade Helena
+apresentava diferentes modos, em função de suas
+estruturas políticas das suas cidades-estado. Mas, existiam
+semelhanças entre elas, tais como: família patriarcal,
+conceitos de cidadania, sociedade fechada, sem
+possibilidade de mobilidade social.
+No âmbito da política, o grande desenvolvimento foi a
+democracia, primeiro com Drácon, depois Sólon e por fim
+Clístenes. Mas, foi somente com Péricles (462-429 a.c.) que
+a democracia se consolidou. Mas, esta democracia era
+apenas para os cidadãos. Estrangeiros, mulheres e
+escravos estavam proibidos de participar da vida política.
+Podemos afirmar, com certeza, que a liberdade de
+pensamento da civilização Grega contribuiu para o
+desenvolvimento das ciências, em especial, a matemática.
+O intercâmbio de idéias e conhecimento entre o oriente e o
+ocidente frutificou nas inúmeras bibliotecas que se
+formaram, como a de Alexandria (Egito), que possuía cerca
+de 400 mil volumes.
+• Contexto matemático
+A base da revolução matemática exercida pela
+civilização Grega partiu de uma idéia muito simples.
+Enquanto Egípcios e Babilônicos perguntavam: “como”? os
+filósofos gregos passaram a indagar: “por quê”? Assim, a
+matemática que até este momento era, essencialmente,
+prática, passou a ter seu desenvolvimento voltado para
+conceituação, teoremas e axiomas.15
+A matemática, através da história, não pode ser
+separada da astronomia. Foram as necessidades
+relacionadas com a irrigação, agricultura e com a
+navegação que concederam à astronomia o primeiro lugar
+nas ciências, determinando o rumo da matemática.
+Dois fatores estimularam e facilitaram o grande
+desenvolvimento da ciência e da matemática pelos filósofos
+gregos: a substituição da escrita grosseira do antigo oriente
+por um alfabeto fácil de aprender e a introdução da moeda
+cunhada, o que estimulou ainda mais o comércio.
+A matemática moderna teve origem no racionalismo
+jônico, e teve como principal estimulador Tales de Mileto,
+considerado o pai da matemática moderna. Este
+racionalismo objetivou o estudo de quatro pontos
+fundamentais: compreensão do lugar do homem no
+universo conforme um esquema racional, encontrar a
+ordem no caos, ordenar as idéias em seqüências lógicas e
+obtenção de princípios fundamentais. Estes pontos partiram
+da observação que os povos orientais tinham deixado de
+fazer todo o processo de racionalização de sua matemática,
+contentando-se, tão somente, com sua aplicação.
+Neste período começam a surgir as primeiras divisões
+nas ciências. Na Grécia surgem dois grupos distintos de
+filósofos: os Sofistas e os Pitagóricos, os quais passam a
+analisar as ciências de dois modos diferentes.
+Os Sofistas abordavam os problemas de natureza
+matemática como uma investigação filosófica do mundo
+natural e moral, desenvolvendo uma matemática mais
+voltada à compreensão do que à utilidade. É o começo da
+abstração matemática, em detrimento da matemática
+essencialmente prática.16
+Os Pitagóricos, sociedade secreta criada por Pitágoras
+de Samos, enfatizavam o estudo dos elementos imutáveis
+da natureza e da sociedade. O chefe desta sociedade foi
+Arquitas de Tarento. Os Pitagóricos estudavam o
+quadrivium (geometria, aritmética, astronomia e música).
+Sua filosofia pode ser resumida na expressão “tudo é
+número”, com a qual diziam que tudo na natureza pode ser
+expresso por meio dos números. Pitágoras dizia que: “tudo
+na natureza está arranjado conforme as formas e os
+números”. Aos Pitagóricos (Pitágoras, principalmente)
+podemos creditar duas descobertas importantes: o conceito
+de número irracional por meio de segmentos de retas
+incomensuráveis e a axiomatização das relações entre os
+lados de um triângulo retângulo (teorema de Pitágoras),
+que já era conhecido por babilônicos e egípcios.
+Paralelo a isto, os matemáticos gregos do período
+clássico começam a trabalhar com o princípio da indução
+lógica (apagoge), que é o início da axiomática, a qual foi
+desenvolvida por Hipócrates. Os três problemas que deram
+início ao estudo da axiomática foram: trissecção de um
+ângulo, duplicação do volume do cubo (problema délico) e
+quadratura do círculo.
+Com as campanhas de Alexandre, o grande, houve um
+avanço rápido da civilização grega em direção ao oriente.
+Assim, a matemática grega sofreu as influências dos
+problemas de administração e da astronomia desenvolvidas
+no oriente. Este contato entre as duas matemáticas foi
+extremamente importante e produtivo, principalmente no
+período de 350 a 200 a.c.. Neste contexto, Alexandria
+torna-se o centro cultural e econômico do mundo
+helenístico.17
+Durante todo o período grego, vários filósofos e
+matemáticos deram sua contribuição ao desenvolvimento
+da matemática. Neste período surgem os cientistas,
+homens que dedicavam sua vida à procura do
+conhecimento e que por isso recebiam um salário. Será
+citado, agora, um breve comentário sobre a contribuição
+dos matemáticos considerados os mais importantes e
+influentes deste período.
+• Euclides (306?-283? a.c.)
+Seu trabalho mais famoso é a coleção “Os elementos”,
+obra em 13 volumes, que contém aplicações da
+álgebra à geometria, baseados numa dedução
+estritamente lógica de teoremas, postulados,
+definições e axiomas. Até os dias de hoje, este é o
+livro mais impresso em matemática.
+• Arquimedes (287 – 212 a.c.)
+É considerado o maior matemático do período
+helenístico e de toda antiguidade. Suas maiores
+contribuições foram feitas no campo que hoje
+denominamos “cálculo integral”, por meio do seu
+“método de exaustão”. Arquimedes também deu
+importante contribuição na mecânica e engenharia,
+com o desenvolvimento de vários artefatos,
+principalmente militares. Foi morto por um soldado
+romano quando da queda de Siracusa.
+• Apolônio de Perga (247-205 a.c.)
+Com Apolônio há uma volta à tradicional geometria
+grega. Ele escreveu um tratado de oito livros sobre as
+cônicas (parábola, elipse e hipérbole), introduzidas
+como seções de um cone circular.18
+• Ptolomeu (150 d.c.)
+Publicou o “Almagesto”, obra de astronomia com
+superior maestria e originalidade. Nesta obra
+encontra-se a fórmula para o seno e o cosseno da
+soma e da diferença de dois ângulos e um começo da
+geometria esférica.
+• Nicómaco de Gerasa
+Publicou “Introdução à aritmética”, que é a exposição
+mais completa da aritmética pitagórica. Muito do que
+sabemos sobre Pitágoras provém desta publicação.
+• Diofanto
+Publicou “Arithmética”, a qual recebeu uma forte
+influência oriental. Este trabalho trata da solução e
+análise de equações indeterminadas.
+Com o domínio da Grécia e do oriente pelos romanos,
+estas regiões tornaram-se colônias governadas por
+administradores romanos. A estrutura econômica do
+império romano permanecia baseada na agricultura. Com o
+declínio do mercado de escravos a economia entrou em
+decadência e existiam poucos homens a fomentar uma
+ciência, mesmo medíocre.
+Podemos, então, determinar uma relação entre a crise
+da matemática e a crise do sistema social, pois a queda de
+Atenas significou o fim do império da democracia
+escravagista. Esta crise social influenciou a crise nas
+ciências que culminou com o fechamento da escola de
+Atenas, marcando com isto o fim da matemática grega
+clássica.
+Podemos observar que as descobertas matemáticas
+estão relacionadas com os avanços obtidos pela sociedade,19
+tanto intelectuais como comerciais. Se no princípio a
+matemática era essencialmente prática, visto que as
+sociedades eram rudimentares, com o desenvolvimento
+destas sociedades a matemática também evoluiu, passando
+de uma simples ferramenta que auxiliava aos problemas
+práticos para uma ciência que serviu como chave para
+analisar o mundo e a natureza em que vivemos.
+Todas as descobertas matemáticas realizadas pelos
+povos pré-históricos, egípcios e babilônicos serviram como
+subsídio para a matemática desenvolvida pelos gregos.
+Esta matemática grega foi, e continua sendo, a base de
+nossa matemática. Todo o desenvolvimento tecnológico
+obtido em nossos dias tem como ponto de partida a
+matemática grega.
+Assim, sem a axiomatização desenvolvida pelos
+gregos, não haveria o desenvolvimento da matemática
+abstrata e dos conceitos, postulados, definições e axiomas
+tão necessários à nossa matemática.
+Da matemática da antiguidade, fundamental a nós
+hoje, podemos citar: processos de contagem, numeração,
+trigonometria, astronomia, geometria plana e volumes de
+corpos sólidos, sistema sexagesimal, equações quadráticas
+e bi-quadráticas, relações métricas nos triângulos
+retângulos, seções cônicas e o método de exaustão, que foi
+o germe do cálculo integral.
+BIBLIOGRAFIA
+BARBEIRO, H. et ali. 2005. História. Ed. Scipione.
+BERUTTI, F. 2004. História. Ed. Saraiva. 2004.20
+BOYER, C.B. 2003. História da matemática. 2º ed. SP.
+Edgard Blucher.
+EVES, H. 2002. Introdução à história da matemática.
+2º ed. UNICAMP.
+STRUIK,1989. História concisa das matemáticas.
+Gradiva.
+
+Ir para o conteúdo
+enfrptes
+
+Sobre a Revista
+Acervo
+Editais e Notícias
+Contato
+Suporte
+O renascimento e o renascer da matemática: A redescoberta do saber clássico e o início da matemática moderna
+THE RENAISSANCE AND REBIRTH OF MATHEMATICS: THE REDISCOVERY OF CLASSICAL KNOWLEDGE AND THE BEGINNING OF MODERN MATHEMATICS
+EL RENACIMIENTO Y EL RENACIMIENTO DE LAS MATEMÁTICAS: EL REDESCUBRIMIENTO DEL CONOCIMIENTO CLÁSICO Y EL COMIENZO DE LAS MATEMÁTICAS MODERNAS
+Autor
+
+URL do Artigo
+
+https://iiscientific.com/artigos/8AEE06
+DOI
+
+doi.org/10.63391/8AEE06
+Silva, Adriano Dantas da. O renascimento e o renascer da matemática: A redescoberta do saber clássico e o início da matemática moderna. International Integralize Scientific. v 5, n 51, Setembro/2025 ISSN/3085-654X
+Resumo
+
+Entre os séculos XIV e XVII, a Europa mergulhou em um período de profundas transformações culturais e intelectuais conhecido como Renascimento. Impulsionado pelo humanismo e pela redescoberta de textos clássicos gregos e árabes, esse movimento marcou um verdadeiro renascer do pensamento científico e artístico. No centro desse renascimento, a matemática ressurgiu como uma ferramenta fundamental para compreender o mundo e expressar ideias com precisão e beleza. De uma ciência muitas vezes restrita aos mosteiros e manuscritos medievais, ela voltou à cena com vigor renovado, sendo aplicada na arte, na arquitetura, na astronomia e na engenharia. Durante a Idade Média, muitos saberes clássicos foram preservados em manuscritos árabes e bizantinos, mas foi apenas com o Renascimento que esses conhecimentos voltaram a circular amplamente na Europa. A redescoberta de obras de Euclides, Arquimedes e Diofanto, aliada ao surgimento da imprensa e ao espírito humanista, permitiu que a matemática deixasse de ser apenas contemplativa e passasse a ser aplicada em áreas como arte, astronomia, engenharia e comércio. Logo, esse trabalho tem como objetivo Analisar como o Renascimento impulsionou o renascer da matemática por meio da redescoberta do saber clássico e da valorização do pensamento racional, destacando as transformações que levaram à consolidação da matemática moderna como linguagem fundamental da ciência e instrumento essencial para o avanço do conhecimento humano. Este estudo será desenvolvido a partir de uma abordagem qualitativa e exploratória, tendo como base a pesquisa bibliográfica e a análise histórica. Inicialmente, será realizado um levantamento de fontes, incluindo livros, artigos acadêmicos e materiais digitais confiáveis, com o objetivo de reunir informações relevantes sobre o Renascimento, a história da matemática e o desenvolvimento do pensamento científico nesse período.
+Palavras-chave
+matemática; renascimento; pensamento científico.
+Summary
+Between the 14th and 17th centuries, Europe was plunged into a period of profound cultural and intellectual transformation known as the Renaissance. Driven by humanism and the rediscovery of classical Greek and Arabic texts, this movement marked a true rebirth of scientific and artistic thought. At the heart of this renaissance, mathematics reemerged as a fundamental tool for understanding the world and expressing ideas with precision and beauty. From a science often restricted to monasteries and medieval manuscripts, it returned to the scene with renewed vigor, being applied in art, architecture, astronomy and engineering. During the Middle Ages, much classical knowledge was preserved in Arabic and Byzantine manuscripts, but it was only with the Renaissance that this knowledge began to circulate widely again in Europe. The rediscovery of works by Euclid, Archimedes and Diophantus, combined with the emergence of the printing press and the humanist spirit, allowed mathematics to cease being merely contemplative and begin to be applied in areas such as art, astronomy, engineering and commerce. Therefore, this work aims to analyze how the Renaissance drove the rebirth of mathematics through the rediscovery of classical knowledge and the appreciation of rational thought, highlighting the transformations that led to the consolidation of modern mathematics as a fundamental language of science and an essential instrument for the advancement of human knowledge. This study will be developed from a qualitative and exploratory approach, based on bibliographic research and historical analysis. Initially, a survey of sources will be carried out, including books, academic articles and reliable digital materials, with the aim of gathering relevant information about the Renaissance, the history of mathematics and the development of scientific thought during this period.
+Keywords
+mathematics; renaissance; scientific thought.
+Resumen
+Entre los siglos XIV y XVII, Europa se vio inmersa en un período de profunda transformación cultural e intelectual conocido como el Renacimiento. Impulsado por el humanismo y el redescubrimiento de los textos clásicos griegos y árabes, este movimiento marcó un verdadero renacimiento del pensamiento científico y artístico. En el corazón de este renacimiento, las matemáticas resurgieron como una herramienta fundamental para comprender el mundo y expresar ideas con precisión y belleza. De una ciencia a menudo restringida a monasterios y manuscritos medievales, resurgió con renovado vigor, aplicándose al arte, la arquitectura, la astronomía y la ingeniería. Durante la Edad Media, gran parte del conocimiento clásico se conservó en manuscritos árabes y bizantinos, pero fue solo con el Renacimiento que este conocimiento comenzó a circular ampliamente de nuevo en Europa. El redescubrimiento de las obras de Euclides, Arquímedes y Diofanto, junto con el surgimiento de la imprenta y el espíritu humanista, permitió que las matemáticas dejaran de ser meramente contemplativas y comenzaran a aplicarse en áreas como el arte, la astronomía, la ingeniería y el comercio. Por tanto, este trabajo tiene como objetivo analizar cómo el Renacimiento impulsó el renacimiento de las matemáticas mediante el redescubrimiento del conocimiento clásico y la apreciación del pensamiento racional, destacando las transformaciones que llevaron a la consolidación de las matemáticas modernas como lenguaje fundamental de la ciencia y un instrumento esencial para el avance del conocimiento humano. Este estudio se desarrollará desde un enfoque cualitativo y exploratorio, basado en la investigación bibliográfica y el análisis histórico. Inicialmente, se realizará una revisión de fuentes, incluyendo libros, artículos académicos y materiales digitales confiables, con el objetivo de recopilar información relevante sobre el Renacimiento, la historia de las matemáticas y el desarrollo del pensamiento científico durante este período.
+Palavras-clave
+matemáticas; renacimiento; pensamiento científico.
+INTRODUÇÃO 
+
+Entre os séculos XIV e XVII, a Europa mergulhou em um período de profundas transformações culturais e intelectuais conhecido como Renascimento. No centro desse renascimento, a matemática ressurgiu como uma ferramenta fundamental para compreender o mundo e expressar ideias com precisão e beleza. De uma ciência muitas vezes restrita aos mosteiros e manuscritos medievais, ela voltou à cena com vigor renovada, sendo aplicada na arte, na arquitetura, na astronomia e na engenharia. 
+
+O estudo do Renascimento como marco do renascer da matemática é essencial para compreender como o conhecimento científico evolui em ciclos de esquecimento e redescoberta.
+
+Esse movimento não apenas revalorizou o saber antigo, mas também lançou as bases para a matemática moderna, com o desenvolvimento da álgebra simbólica, da geometria analítica e do cálculo. Assim, estudar esse período é fundamental para entender como a matemática se consolidou como linguagem universal da ciência e ferramenta indispensável para o progresso humano.
+
+Logo, esse trabalho tem como objetivo Analisar como o Renascimento impulsionou o renascer da matemática por meio da redescoberta do saber clássico e da valorização do pensamento racional, destacando as transformações que levaram à consolidação da matemática moderna como linguagem fundamental da ciência e instrumento essencial para o avanço do conhecimento humano.
+
+Este estudo é desenvolvido a partir de uma abordagem qualitativa e exploratória, tendo como base a pesquisa bibliográfica e a análise histórica. Inicialmente, será realizado um levantamento de fontes, incluindo livros, artigos acadêmicos e materiais digitais confiáveis, com o objetivo de reunir informações relevantes sobre o Renascimento, a história da matemática e o desenvolvimento do pensamento científico nesse período.
+
+A seguir, será feita uma análise do contexto sociocultural dos séculos XIV a XVII, enfocando a redescoberta de obras clássicas greco-romanas e árabes, e como essas influências contribuíram para o florescimento da matemática. Esse estudo será enriquecido por investigações sobre personagens-chave como Euclides, Arquimedes, François Viète, René Descartes, Isaac Newton e Gottfried Leibniz, cujas contribuições foram decisivas para o nascimento da matemática moderna.
+
+Além disso, os dados obtidos serão organizados de forma interpretativa e crítica, buscando compreender como a redescoberta do saber clássico influenciou a transformação da matemática em uma linguagem universal da ciência. Por fim, todo o conteúdo será estruturado em formato textual, com embasamento teórico e linguagem clara, adequada ao público-alvo da pesquisa.
+
+O RENASCIMENTO E O RENASCER DA MATEMÁTICA
+
+O Renascimento, movimento cultural e intelectual que floresceu na Europa entre os séculos XIV e XVII, representou uma ruptura com os paradigmas medievais e uma revalorização do saber clássico. Impulsionado pelo humanismo, pela redescoberta de textos antigos e pelo avanço da imprensa, esse período marcou o ressurgimento da matemática como ciência fundamental para o entendimento do mundo. A matemática, antes restrita a círculos religiosos e filosóficos, passou a ser aplicada em áreas como arte, astronomia, engenharia e comércio, tornando-se uma linguagem universal da ciência moderna. Como traduz o Portal.
+
+Durante o Renascimento, a matemática passa também a assumir um outro papel, mais aplicada aos avanços da época. Em meados do século XV, deu-se um sensível aumento na produção de trabalhos matemáticos. Para isso contribuíram fatos relevantes, como a queda de Constantinopla, em 1453, as grandes navegações e o invento da impressão com tipos móveis que possibilitaram a maior difusão das obras. Como consequência desse período de mudanças, o estudo matemático, no Renascimento, assumiu características de Matemática Aplicada, a qual passou a ser utilizada em campos como a arte, óptica, mecânica, cartografia e contabilidade. A aritmética da época era amplamente comercial e objetivava explicar a escrita dos números, efetuar cálculos com eles. (Portal, 2010, p. 1)
+
+Durante a Idade Média, muitos textos matemáticos da Grécia Antiga foram preservados por estudiosos árabes e bizantinos. Com a queda de Constantinopla em 1453, esses manuscritos chegaram à Europa Ocidental, reacendendo o interesse pelo pensamento lógico e geométrico dos antigos. Obras de Euclides, Arquimedes, Diofanto e Ptolomeu foram traduzidas e estudadas com entusiasmo.
+
+Nesse contexto, Galileu Galilei declarou que o livro da natureza está escrito em linguagem matemática (Galilei, apud Citações e Frases Famosas, 2023, p, 143). Essa perspectiva revela o espírito renascentista, que valorizava a matemática como a chave para desvendar os mistérios do universo.
+
+O Renascimento trouxe uma nova abordagem para a matemática: ela passou a ser utilizada de forma aplicada em diferentes áreas do saber humano. Na arte, a perspectiva linear desenvolvida por Filippo Brunelleschi e teorizada por Leon Battista Alberti baseava-se em princípios geométricos. Na arquitetura, as proporções matemáticas guiavam projetos de igrejas e palácios. Já na astronomia, os cálculos de Copérnico e Kepler foram essenciais para a consolidação do modelo heliocêntrico.
+
+René Descartes, representando o pensamento da época, afirmou: “As matemáticas têm invenções sutilíssimas e servirão de muito, não apenas para satisfazer os curiosos como para tornar mais fáceis todas as artes e diminuir o trabalho dos homens” (Descartes, 1973, p. 9). Sua citação mostra como a matemática se consolidava como uma aliada do progresso técnico e científico.
+
+O desenvolvimento matemático do Renascimento abriu caminho para o surgimento de novos campos de estudo. A álgebra simbólica ganhou forma com François Viète, que introduziu o uso sistemático de letras para representar variáveis. John Napier, por sua vez, criou os logaritmos, o que facilitou cálculos complexos e contribuiu para o avanço da astronomia e da engenharia. A união entre álgebra e geometria realizada por René Descartes, com a criação da geometria analítica, foi decisiva para o nascimento da matemática moderna.
+
+A consagração desse movimento veio com a criação do cálculo diferencial e integral por Isaac Newton e Gottfried Leibniz. Essa ferramenta tornou-se indispensável para a física, a economia e muitas outras áreas. Segundo Hardy “A teoria dos números tem sido chamada de a mais pura das disciplinas matemáticas, e sua beleza é comparável à da arte.” (Hardy, 1992, p. 84). A declaração sintetiza o prestígio que a disciplina passou a exercer na ciência moderna.
+
+O Renascimento foi um marco decisivo na trajetória da matemática. Ao resgatar saberes clássicos e aplicá-los com olhar renovado, os pensadores renascentistas não apenas preservaram o legado antigo, mas também lançaram as bases de um novo modo de pensar. Mais do que um conjunto de técnicas, a matemática tornou-se uma linguagem universal, capaz de descrever desde as estruturas cósmicas até os detalhes estéticos de uma obra de arte.
+
+Como bem afirmou Russell “A matemática, vista corretamente, possui não apenas verdade, mas também suprema beleza — uma beleza fria e austera, como a da escultura.” (Russell, 1919, p. 60), evidenciando sua beleza e poder enquanto expressão do pensamento humano mais refinado.
+
+O INÍCIO DA MATEMÁTICA MODERNA: A CONSOLIDAÇÃO DE UMA NOVA LINGUAGEM CIENTÍFICA
+
+A matemática moderna representa uma das mais profundas transformações no pensamento científico da humanidade. A partir dos séculos XVII e XVIII, a matemática deixou de ser apenas uma ferramenta de cálculo e passou a ser uma linguagem formal, abstrata e universal, capaz de descrever fenômenos naturais, sociais e tecnológicos com precisão. Esse novo paradigma foi impulsionado por avanços como a geometria analítica, o cálculo diferencial e integral, a álgebra simbólica e a teoria das probabilidades. O presente trabalho tem como objetivo analisar o surgimento da matemática moderna, destacando seus principais marcos, pensadores e impactos na ciência e na sociedade.
+
+O surgimento da matemática moderna está intimamente ligado ao espírito racionalista e científico que emergiu na Europa a partir do século XVII. O Renascimento já havia resgatado o saber clássico, mas foi com o Iluminismo e a Revolução Científica que a matemática passou a ocupar um papel central na construção do conhecimento.
+
+Um dos marcos fundadores da matemática moderna foi a criação da geometria analítica por René Descartes, em sua obra La Géométrie (1637). Ao unir álgebra e geometria, Descartes permitiu que curvas e superfícies fossem representadas por equações, inaugurando uma nova forma de pensar o espaço. Para Descartes, “as matemáticas têm invenções sutilíssimas e servirão de muito, não apenas para satisfazer os curiosos como para tornar mais fáceis todas as artes e diminuir o trabalho dos homens” (Descartes, 1973, p. 47). Essa visão utilitária e racional da matemática foi essencial para sua consolidação como ciência.
+
+Outro pilar da matemática moderna foi o desenvolvimento do cálculo diferencial e integral, realizado de forma independente por Isaac Newton e Gottfried Leibniz. Essa nova linguagem matemática permitiu descrever o movimento, a variação e o infinito com precisão inédita.
+
+Segundo Kline, “A matemática é a mais abstrata das ciências, e por isso mesmo a mais poderosa” (Kline, 1993, p. 2). O cálculo exemplifica essa capacidade de lidar com o infinitamente pequeno e o infinitamente grande. Por meio de limites, derivadas e integrais, ele permite modelar fenômenos contínuos com precisão surpreendente. Essa linguagem matemática tornou-se indispensável para compreender desde o movimento dos planetas até o comportamento de partículas subatômicas. Assim, o cálculo não apenas descreve o mundo — ele o revela em profundidade.
+
+A álgebra moderna começou a se consolidar com François Viète, que introduziu o uso sistemático de letras para representar incógnitas e constantes. Posteriormente, matemáticos como Euler, Lagrange e Gauss expandiram a álgebra para além da resolução de equações, criando estruturas abstratas como grupos, anéis e corpos.
+
+A teoria das probabilidades surgiu no século XVII com os trabalhos de Blaise Pascal e Pierre de Fermat, inicialmente motivados por jogos de azar. Com o tempo, tornou-se uma ferramenta essencial para lidar com a incerteza e o acaso em diversas áreas do conhecimento.
+
+Pascal declarou: “Entre dois espíritos iguais, postos nas mesmas condições, aquele que sabe geometria é superior ao outro e adquire um vigor especial” (Pascal, 2017, p. 43). A geometria e a probabilidade passaram a ser vistas como formas complementares de raciocínio lógico.
+
+A matemática moderna se caracteriza por: Abstração crescente: conceitos como conjuntos, funções e estruturas algébricas. Pelo Formalismo lógico: uso de axiomas, teoremas e demonstrações rigorosas. E Universalidade: aplicação em todas as ciências e áreas do conhecimento. E por sua Linguagem simbólica: padronização de símbolos e notações.
+
+Segundo Burton “A matemática é a rainha das ciências, e a teoria dos números é a rainha da matemática.” (Burton, 2007, p. 398). Essa frase sintetiza o prestígio e a centralidade da matemática no pensamento moderno.
+
+A matemática moderna permitiu o avanço da física, da engenharia, da economia, da informática e de inúmeras outras áreas. Ela se tornou a base da modelagem científica, da simulação computacional e da inteligência artificial.
+
+Como afirmou Courant; Robbins “A matemática pura é uma expressão da mente humana que reflete a vontade, o pensamento e a emoção humanos.” (Courant; Robbins, 1996, p. 3). Essa poesia lógica molda o mundo contemporâneo.
+
+O início da matemática moderna representou uma verdadeira revolução no modo de pensar, conhecer e transformar o mundo. Ao desenvolver novas linguagens, métodos e estruturas, os matemáticos dos séculos XVII e XVIII lançaram as bases de uma ciência que continua a evoluir e a impactar profundamente a sociedade. Com sua capacidade de abstração, precisão e universalidade, a matemática moderna tornou-se não apenas uma ferramenta, mas uma forma de ver e compreender a realidade.
+
+A MATEMÁTICA DO RENASCIMENTO E SUA APLICAÇÃO NOS DIAS ATUAIS
+
+Durante os séculos XIV a XVII, a Europa vivenciou um período de transformações intensas conhecido como Renascimento. Esse movimento, impulsionado pela redescoberta dos saberes clássicos e pela valorização da razão e da ciência, marcou o renascer da matemática como instrumento para compreender e transformar o mundo. Muito além de uma prática contemplativa, a matemática passou a ser reconhecida como linguagem da natureza e fundamento do progresso intelectual e técnico.
+
+Galileu Galilei sintetizou essa nova visão ao afirmar que “o grande livro da natureza está escrito em linguagem matemática, e os caracteres são triângulos, círculos e outras figuras geométricas” (Galilei, 2000, p. 43). Essa metáfora revela o espírito da época: o universo era algo a ser decifrado racionalmente, e a matemática seria a chave. O impacto desse pensamento ainda reverbera, uma vez que os conceitos estruturados nesse período permanecem vivos e atuantes na ciência, na tecnologia e na educação contemporâneas.
+
+Um dos campos onde isso é mais evidente é na geometria e no uso da perspectiva. A perspectiva linear, desenvolvida por Filippo Brunelleschi e sistematizada por Leon Battista Alberti, revolucionou a arte renascentista e estabeleceu os fundamentos para a representação espacial. Hoje, os mesmos princípios geométricos são aplicados em softwares de modelagem tridimensional, design gráfico, realidade virtual, arquitetura digital e jogos eletrônicos. Como destaca Henri Poincaré afirmou que “a geometria é a arte de pensar corretamente” (Poincaré, 1952, p. 20)  — e continua sendo a espinha dorsal dos ambientes digitais e virtuais do século XXI.
+
+No campo da álgebra, o grande salto veio com François Viète, que introduziu o uso simbólico de letras para representar incógnitas. Essa inovação foi decisiva para a criação de uma linguagem algébrica que ainda hoje estrutura a lógica computacional. Linguagens de programação como Python, C++ e JavaScript operam com base nos mesmos fundamentos algébricos. René Descartes, em sua contribuição à geometria analítica, escreveu que “As matemáticas têm invenções sutilíssimas e servirão de muito, […] para tornar mais fáceis todas as artes e diminuir o trabalho dos homens” (Descartes, 1973, p. 47).. Essa visão se concretiza na automação de processos, algoritmos inteligentes e sistemas computacionais de alta complexidade.
+
+Na área das ciências naturais, o desenvolvimento do cálculo diferencial e integral por Newton e Leibniz foi uma das maiores heranças do Renascimento. Com ele, tornou-se possível modelar fenômenos como velocidade, aceleração, crescimento populacional e variação de preços. Hoje, o cálculo é indispensável na física, na biologia, na engenharia e na economia. Paul Dirac, ao refletir sobre o papel da matemática, afirmou: Várias vezes, quando não sabia como prosseguir, simplesmente tive que esperar até sentir que a matemática me conduzia pela mão (Dirac, 1978, p. 145). De fato, o cálculo renascentista tornou-se a base de tudo, desde simulações de voo até inteligência artificial.
+
+Na trigonometria, os estudos dos renascentistas viabilizaram avanços na cartografia e na navegação. Os métodos matemáticos usados para calcular ângulos e distâncias em alto-mar são os mesmos aplicados hoje no GPS, em satélites de mapeamento, em softwares de engenharia civil e em games baseados em física realista. Bertrand Russell destacou a dimensão estética da matemática ao afirmar que a matemática, vista corretamente, possui não apenas verdade, mas também suprema beleza — uma beleza fria e austera, como a da escultura (Russell, 1985, p. 86).e a trigonometria representa perfeitamente essa dupla natureza entre ciência e estética.
+
+No campo das finanças e da contabilidade, a obra Summa de Arithmetica, de Luca Pacioli, publicada em 1494, sistematizou o método das partidas dobradas, ainda utilizado na contabilidade contemporânea. Essa estrutura está presente em balanços patrimoniais, livros fiscais e sistemas de gestão financeira. Além disso, o cálculo de juros simples e compostos — fundamentos da matemática renascentista — continua sendo aplicado diariamente em bancos, investimentos e contratos.
+
+No ambiente educacional, o legado renascentista também se manifesta. A valorização do raciocínio lógico, do método dedutivo e da interdisciplinaridade são princípios que moldam as práticas pedagógicas atuais. Competições como as Olimpíadas de Matemática recuperam a tradição renascentista de debates matemáticos, como os famosos embates entre Tartaglia e Cardano (Torrente; Reis, 2023, p, 1-17). Hoje, essas práticas formam jovens pensadores críticos e criativos.
+
+Carl B. Boyer, renomado historiador da matemática, destaca que “o Renascimento foi um período de transição em que a matemática começou a se libertar das limitações da tradição clássica e medieval, abrindo caminho para a criação de novos métodos e conceitos” (Boyer, 1996, p. 295). Para ele, a inovação se deu não apenas pelo resgate do saber antigo, mas pela superação desse saber. “Os matemáticos do Renascimento não se limitaram a preservar o legado clássico; eles o transformaram e o expandiram” (Boyer, 1996, p. 305).
+
+Ainda segundo Boyer (1996, p. 301), “a álgebra simbólica, desenvolvida por Viète e seus sucessores, foi um dos maiores avanços do período, pois permitiu a generalização e a abstração dos problemas matemáticos”. Tal abstração é a base das linguagens de programação, dos modelos estatísticos e até dos sistemas criptográficos que protegem informações digitais na atualidade.
+
+Além disso, Boyer aponta que a invenção da imprensa teve um papel revolucionário na democratização do saber: “a circulação ampliada de tratados matemáticos acelerou o progresso da disciplina” (Boyer, 1996, p. 289). Esse mesmo espírito continua vivo nas plataformas de educação online e nos repositórios de livros abertos, que tornam o conhecimento matemático acessível globalmente.
+
+Por fim, o matemático Richard Courant destacou a beleza e profundidade da matemática ao afirmar que “a matemática é uma expressão da mente humana que reflete a vontade, o pensamento e a emoção humanos” (Courant; Robbins, 1996, p. 3). Essa poesia, iniciada com o compasso e o pergaminho dos renascentistas, segue sendo escrita com código, gráficos e dados — nas universidades, nos laboratórios, nas empresas e nos satélites que orbitam a Terra.
+
+Em síntese, a matemática do Renascimento é muito mais do que um capítulo da história: é uma herança viva que continua a moldar a forma de pensar, cria e transforma o mundo.
+
+CONSIDERAÇÕES FINAIS 
+
+A análise da matemática renascentista permitem compreender como o conhecimento científico não evolui de maneira linear, mas sim em ciclos de resgate, ruptura e reinvenção. O Renascimento foi, sem dúvida, uma dessas viradas históricas que possibilitaram o reencontro com saberes antigos e o florescimento de novas ideias, muitas das quais permanecem estruturando o mundo contemporâneo.
+
+Os conceitos matemáticos desenvolvidos entre os séculos XIV e XVII não só representaram grandes avanços para sua época, como também anteciparam transformações que moldariam os séculos seguintes. Seja na sistematização da álgebra simbólica, na aplicação da geometria à arte, ou nas descobertas da astronomia e da física, esse legado permanece vivo e essencial.
+
+A perspectiva linear desenvolvida nas obras artísticas renascentistas ainda é a base das tecnologias de visualização em 3D, do design gráfico e da realidade virtual. O uso da geometria nos ambientes digitais modernos demonstra que a matemática do passado ganhou novo fôlego com as ferramentas tecnológicas atuais.
+
+Na ciência e na engenharia, o cálculo e a trigonometria criados ou sistematizados por pensadores renascentistas continuam sendo ferramentas essenciais para a modelagem de fenômenos naturais, análises estruturais e projeções econômicas. Suas fórmulas e métodos podem ser encontradas tanto em livros antigos quanto em linguagens de programação modernas.
+
+A contabilidade, a economia e as finanças também se beneficiam diretamente da matemática renascentista. O sistema de partidas dobradas e os princípios de cálculo de juros são práticas herdadas diretamente dos tratados de autores como Luca Pacioli e aplicadas todos os dias em bancos, empresas e governos.
+
+Além disso, o próprio ensino da matemática preserva o legado renascentista ao valorizar a lógica, a resolução de problemas e a interdisciplinaridade. A matemática deixou de ser um conjunto de fórmulas para ser um processo de investigação, diálogo e descoberta, como defendiam os humanistas do século XVI.
+
+A partir da contribuição de estudiosos como Carl B. Boyer, compreendem-se que o Renascimento não apenas recuperou o saber clássico, mas soube questioná-lo e superá-lo. A nova matemática não se limitava a repetir ideias, mas criava conceitos inéditos, mais abstratos e poderosos, que permitiam entender o mundo com maior profundidade e precisão.
+
+O pensamento matemático renascentista também mostra o valor da integração entre diferentes áreas do conhecimento. A união de arte, ciência, filosofia e matemática naquele período inspirou formas de compreender o mundo que hoje reaparecem nas ciências interdisciplinares e na inovação tecnológica.
+
+Refletir sobre a matemática do Renascimento é, portanto, refletir sobre a permanência do raciocínio humano ao longo do tempo. É reconhecer que os algoritmos que estruturam aplicativos modernos e as equações que modelam pandemias ou aquecimento global têm raízes no espírito de curiosidade, rigor e criatividade que marcou aquele período.
+
+Dessa forma, conclui-se que a matemática renascentista não pertence apenas ao passado. Ela é parte integrante da base do presente e continua abrindo caminhos para o futuro. Seu legado não está apenas nos livros de história, mas no cotidiano, na ciência, na arte e na tecnologia que moldam vidas.
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+BOYER, Carl B. História da Matemática. Tradução de Elza F. Gomide. São Paulo: Edgard Blücher, 1996.
+
+BURTON, David M. The History of Mathematics: An Introduction. 6. ed. Boston: McGraw-Hill, 2007.
+
+CITAÇÕES E FRASES FAMOSAS. Citações e frases famosas. São Paulo: Editora Exemplo, 2023.
+
+COURANT, R.; ROBBINS, H. O que é matemática? 2. ed. Rio de Janeiro: Zahar, 1996.
+
+DESCARTES, R. Discurso do método. Tradução de Jacob Guinsburg e Bento Prado Jr. São Paulo: Abril Cultural, 1973. (Coleção Os Pensadores).
+
+DIRAC, Paul. Directions in Physics: Lectures delivered during a visit to Australia and New Zealand, August/September 1975. New York: Wiley-Interscience, 1978.
+
+GALILEI, Galileu. O ensaiador. Tradução de Alfredo Tiomno Tolmasquim. São Paulo: Editora UNESP, 2000. 
+
+HARDY, G. H. A Mathematician’s Apology. Cambridge: Cambridge University Press, 1992.
+
+KLINE, Morris. Mathematical Thought from Ancient to Modern Times. Vol. 1. New York: Oxford University Press, 1993.
+
+PASCAL, Blaise. Do Espírito Geométrico e da Arte de Persuadir e outros escritos de ciência, política e fé. Organização, introdução, tradução e notas de F. F. Loque. Belo Horizonte: Autêntica Editora, 2017.
+
+POINCARÉ, Henri. Science and Method. Nova York: Dover Publications, 1952. 
+
+PORTAL, Jonas. A matemática e o Renascimento. Matemática do Pi, 2010. Disponível em: https://jonasportal.blogspot.com/2010/02/matematica-e-o-renascimento.html. Acesso em: 3 jul. 2025.
+
+RUSSELL, Bertrand. Contemplation and Action: 1902–14. Edited by Andrew Brink and Richard A. Rempel. London: Psychology Press, 1985.
+
+RUSSELL, Bertrand. Mysticism and Logic and Other Essays. Londres: George Allen & Unwin, 1919.
+
+TORRENTE, Carlos Roberto; REIS, Frederico da Silva. Um passeio pelas Olimpíadas de Matemática: das origens aos atuais cenários no mundo e no Brasil. Revista de Educação Matemática, UFOP, Ouro Preto, 2023. Disponível em: https://periodicos.ufop.br/revemop/article/download/6357/5064. Acesso em: 2 jul. 2025.
+
+Edição
+
+v. 5
+n. 51
+O renascimento e o renascer da matemática: A redescoberta do saber clássico e o início da matemática moderna
+Área do Conhecimento
+
+Ciências Exatas e da Terra
+Gameficando a matemática: dá pra aprender brincando
+gamificação; ensino remoto; interdisciplinaridade; educação matemática; metodologias ativas.
+Transformação educacional: O impacto da inteligência artificial no aprendizado
+inteligência artificial; educação; benefícios; responsável.
+Uma análise da transição do conhecimento matemático durante a idade média
+matemática; baixa idade média, alta idade média.
+Frações em ritmo: A interdisciplinaridade entre música e matemática no ensino fundamental
+fração; música; interdisciplinaridade; fórmula de compasso.
+A matemática por trás da piscicultura: Do laboratório para a vida.
+gamificação; ensino remoto; interdisciplinaridade; educação matemática; metodologias ativas.
+geometria; etnomatemática; construção civil; saberes populares; ensino médio.
+O ensino da matemática para a geração alpha do ensino fundamental II
+geração alpha; matemática; interdisciplinar.
+Últimas Edições
+Confira as últimas edições da International Integralize Scientific
+
+Junte-se a nós
+Submeta seu artigo e amplie o impacto de suas pesquisas com visibilidade internacional e reconhecimento acadêmico garantidos.
+
+
+Dedicado à publicação e disseminação de artigos científicos, promovendo o acesso ao conhecimento por meio de uma rede global de pesquisadores.
+
+Acesso rápido
+Quem Somos
+Acervo
+Editais
+Notícias
+Contato
+Links úteis
+Privacy Policy
+Terms and Conditions
+Disclaimer
+Support
+FAQ
+Endereço
+Florianópolis-SC Rodovia SC 401, Bairro Saco Grande
+CEP 88032-005.
+suporte@cipintegralize.com
+IIS - INTERNATIONAL INTEGRALIZE SCIENTIFIC - ISSN/3085-654X
+
+Copyright © Todos os direitos reservados - integralize.online
+Politica de Privicidade

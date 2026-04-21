@@ -12,7 +12,7 @@ def websearch_mock(keywords: str) -> str:
     return "\n".join(results)
 
 
-@as_tool(name="dbsearch", description="retorna resultados osbre o assunto pesquisado")
+@as_tool(name="dbsearch", description="retorna resultados de busca sobre o assunto pesquisado.")
 def databasesearch_mock(keywords: str) -> str:
     print("Database receive keywords: ", keywords)
     with open('/home/gilzamir/projetos/ResearchAgent/db.txt', 'r', encoding='utf-8') as f:

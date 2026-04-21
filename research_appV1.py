@@ -6,7 +6,7 @@ async def main():
     # Adiciona o bloco de agente ao grafo
     agent_block = LLMAgentBlock(
         name="research_agent",
-        model="ollama/mistral-nemo:latest",
+        model="ollama/mistra-nemo:latest", #granite4:latest
         description="Agente de pesquisa",
         debug=True,
         system_prompt="""Identifique o tópico de pesquisa, infira as palavras-chaves 
@@ -24,9 +24,9 @@ async def main():
         Estruture a resposta final destacando as informações relevantes de acordo com o tópico pesquisado.
         """,
         tools=[websearch_mock, databasesearch_mock],
-        max_iterations=10,
+        max_iterations=5,
         on_max_iterations="return_last", #it returns the last message.
-        litellm_kwargs={"temperature": 0.7, "tool_choice": "auto"}
+        litellm_kwargs={"temperature": 1.0, "tool_choice": "auto"}
     )
 
     output = await agent_block.run(AgentInput(prompt="Qual é o Índice de Inflação ao Consumidor (IPCA) atual?"))
