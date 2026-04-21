@@ -45,7 +45,7 @@ async def main():
         """,
         tools=mcp_tools_search+mcp_tools_fetch,
         debug=True,
-        max_iterations=3,
+        max_iterations=5,
         on_max_iterations="return_last", #it returns the last message.
         litellm_kwargs={"temperature": 1.0, "tool_choice": "auto", "num_ctx": 4092, "max_tokens": 1000}
     )
